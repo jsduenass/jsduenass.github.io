@@ -52,7 +52,8 @@ ping jsds.local -4
 &lt;p>Well, I think that is a muddy question, because it encapsulates a wide range of activities with an even broader set of tools. If I had to give you a short definition it would be that programming is laying a set of rules for the computer to follow. It sounds extremely simple, but it is a process you can build upon and iterate layer over layer until these instructions create amazing software with complex functionality.&lt;/p></description></item><item><title>Robocup Virtual manipulator challenge</title><link>https://jsduenass.github.io/posts/programming/robocup/</link><pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate><guid>https://jsduenass.github.io/posts/programming/robocup/</guid><description>&lt;h2 id="virtual-manipulator-demo">virtual manipulator demo&lt;/h2>
 &lt;!---
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/L27-7TKqqbg?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video">&lt;/iframe>
+&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/L27-7TKqqbg?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+>&lt;/iframe>
 &lt;/div>
 -->
 &lt;h2 id="resources">Resources&lt;/h2>

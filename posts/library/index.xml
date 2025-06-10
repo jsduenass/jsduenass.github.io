@@ -13,6 +13,10 @@
 &lt;li>delftswa.github.io&lt;/li>
 &lt;/ul>
 &lt;/li>
+&lt;li>Caltech&lt;/li>
+&lt;li>MIT&lt;/li>
+&lt;li>UC Berkeley&lt;/li>
+&lt;li>Stanford&lt;/li>
 &lt;li>UPV (universidad politecnica de Valencia)&lt;/li>
 &lt;li>URJC universidad rey juan carlos&lt;/li>
 &lt;li>Universidad carlos iii madrid UC3M&lt;/li>
@@ -20,7 +24,7 @@
 &lt;li>Twente university. Sid Sijbrandij gitlab, &lt;a href="https://www.youtube.com/channel/UCAB2bLpeVElJN2jDyF14zsQ" target="_blank" rel="noopener">roboteam&lt;/a>, &lt;a href="https://www.youtube.com/watch?v=TvSTCM7SjGs" target="_blank" rel="noopener">Student report&lt;/a>&lt;/li>
 &lt;li>Eindhoven TU/e paises bajos, &lt;a href="https://github.com/tue-robotics/" target="_blank" rel="noopener">github&lt;/a> &lt;a href="https://www.techunited.nl/en/" target="_blank" rel="noopener">Tech United Eindhoven&lt;/a>&lt;/li>
 &lt;li>Politecnico de lausanne&lt;/li>
-&lt;li>fh aachen&lt;/li>
+&lt;li>FH Aachen&lt;/li>
 &lt;li>TU München Munich&lt;/li>
 &lt;li>TU Berlin&lt;/li>
 &lt;li>TU Dresden&lt;/li>
@@ -31,7 +35,7 @@
 &lt;li>Hong Kong Polytechnic University&lt;/li>
 &lt;li>university of washington seattle&lt;/li>
 &lt;li>West Virginia University&lt;/li>
-&lt;li>TU Braunschweig (&lt;a href="https://www.youtube.com/watch?v=V5vpwVFMPqs" target="_blank" rel="noopener">https://www.youtube.com/watch?v=V5vpwVFMPqs&lt;/a>)&lt;/li>
+&lt;li>TU Braunschweig &lt;a href="https://www.youtube.com/watch?v=V5vpwVFMPqs" target="_blank" rel="noopener">Robot Swarms&lt;/a>&lt;/li>
 &lt;li>TU Kaiserslautern&lt;/li>
 &lt;li>University of Nothinham. numberphile&lt;/li>
 &lt;li>IIT Gandhinagar&lt;/li>
@@ -41,21 +45,24 @@
 &lt;ul>
 &lt;li>Paul Graham. YCombinator&lt;/li>
 &lt;li>Lex Fridman&lt;/li>
+&lt;li>Keenan Wyrobek. zipline&lt;/li>
 &lt;li>Sid Sijbrandij. gitlab&lt;/li>
-&lt;li>Peter Corke. robotics toolbox&lt;/li>
-&lt;li>Michael Nielsen. quatum computing&lt;/li>
 &lt;li>Raffaello d&amp;rsquo;andrea. Drones&lt;/li>
+&lt;li>Robert Playter. Boston Dynamics&lt;/li>
 &lt;li>Lorenz Meier. Auterion drone company&lt;/li>
+&lt;li>Peter Corke. robotics toolbox&lt;/li>
 &lt;li>Professor Jeff Hoffman. &lt;a href="https://www.youtube.com/watch?v=bvxqCAkjDxs" target="_blank" rel="noopener">Introduction to aerospace engineerign: Astronautics and Human Spaceflight&lt;/a>&lt;/li>
-&lt;li>Rich Harris. svelte&amp;rsquo;s creator&lt;/li>
 &lt;li>Randy Pausch. Alice python &lt;a href="https://archive.org/details/GabrielRobins-50YearsOfComputerScienceInnovationByRandyPausch812" target="_blank" rel="noopener">lecture&lt;/a>&lt;/li>
+&lt;li>Rich Harris. svelte&amp;rsquo;s creator&lt;/li>
+&lt;li>Dario Floreano. Bio inspired robots&lt;/li>
 &lt;li>Eric Tsui. knowledge management&lt;/li>
+&lt;li>Stephen Wolfram&lt;/li>
 &lt;li>Fabian Riether and Sertac Karaman &lt;a href="https://github.com/Parrot-Developers/RollingSpiderEdu" target="_blank" rel="noopener">minidrone MATLAB&lt;/a>&lt;/li>
 &lt;li>Jaron Lanier &lt;a href="https://youtu.be/rGqiswuJuQI" target="_blank" rel="noopener">Who is civilization for&lt;/a>&lt;/li>
 &lt;li>Arie van Deursen. software arquitecture DelftTU&lt;/li>
 &lt;li>Rodney Brooks. directorof MIT&amp;rsquo;s Computer Science and Artificial Intelligence Laboratory&lt;/li>
-&lt;li>Robert Playter. Boston Dynamics&lt;/li>
 &lt;li>Ali Agha. Principal Investigator and Research Technologist at NASA&amp;rsquo;s JPL and Caltech’s Center for Autonomous Systems and Technologies (CAST)&lt;/li>
+&lt;li>Michael Nielsen. Quatum computing&lt;/li>
 &lt;li>Vadim Pisarevsky. openCV developer&lt;/li>
 &lt;li>Homayoon Kazerooni. robotics UC berkeley&lt;/li>
 &lt;li>Carlos Galeano. NASA&lt;/li>
@@ -64,6 +71,7 @@
 &lt;li>Brendan Schulman&lt;/li>
 &lt;li>Federico Faggin. synaptics&lt;/li>
 &lt;li>Victoria Lemieux. Electronic Document &amp;amp; Records Management System Implementation&lt;/li>
+&lt;li>Cleve Moler. Mathworks creator&lt;/li>
 &lt;li>Gen Sasaki. Mathworks&lt;/li>
 &lt;li>Roger D. Launius. chief historian NASA&lt;/li>
 &lt;li>John Carmack. Best programmer (allegedly)&lt;/li>
@@ -71,24 +79,33 @@
 &lt;li>Sergei Lupashin&lt;/li>
 &lt;li>Adrian Bowyer. RepRap&lt;/li>
 &lt;li>Peo Hansen. Migration&lt;/li>
+&lt;li>Rob Cohee. Product Manager Fusion360&lt;/li>
 &lt;/ul>
 &lt;h2 id="institutions">Institutions&lt;/h2>
 &lt;ul>
-&lt;li>dlr institute of robotics and mechatronics&lt;/li>
+&lt;li>DLR institute of robotics and mechatronics&lt;/li>
+&lt;li>Bell Labs&lt;/li>
+&lt;li>NASA JPL&lt;/li>
 &lt;/ul>
 &lt;h2 id="companies">Companies&lt;/h2>
 &lt;ul>
 &lt;li>Boston Dynamics&lt;/li>
-&lt;li>Ocado&lt;/li>
+&lt;li>Zipline&lt;/li>
 &lt;li>Anybotics&lt;/li>
 &lt;li>Auterion&lt;/li>
+&lt;li>Ocado&lt;/li>
 &lt;li>Gitlab&lt;/li>
+&lt;li>Intrinsic&lt;/li>
 &lt;li>Amazon robotics&lt;/li>
 &lt;li>DJI&lt;/li>
 &lt;li>Formlabs&lt;/li>
 &lt;li>Markforged&lt;/li>
 &lt;li>Prusa&lt;/li>
+&lt;li>Onshape&lt;/li>
+&lt;li>Universal robots&lt;/li>
+&lt;li>JLCPCB&lt;/li>
 &lt;li>Mathworks&lt;/li>
+&lt;li>kiwibot&lt;/li>
 &lt;li>Esri&lt;/li>
 &lt;/ul></description></item><item><title>Quotebook</title><link>https://jsduenass.github.io/posts/library/quotebook/</link><pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate><guid>https://jsduenass.github.io/posts/library/quotebook/</guid><description>&lt;p>This is a collection of quotes I found interesting in one way or another.&lt;/p>
 &lt;h2 id="literature">Literature&lt;/h2>
