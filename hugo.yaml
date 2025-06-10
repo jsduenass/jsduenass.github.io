@@ -29,14 +29,14 @@ languages:
 
 # Force a locale to be use, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
 # DefaultContentLanguage: bn
-#googleAnalytics : G-EWHJHZ5EY9
+googleAnalytics : G-EWHJHZ5EY9
 
-#analytics:
-#  enable: true
-#  services:
-#    # Google Analytics
-#    google:
-#      id : G-EWHJHZ5EY9
+analytics:
+  enable: true
+  services:
+    # Google Analytics
+    google:
+      id : G-EWHJHZ5EY9
 
 # Allow raw html in markdown file
 markup:
