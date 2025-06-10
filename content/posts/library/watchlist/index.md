@@ -158,6 +158,7 @@ don't quite made the cut but worth to keep an eye on if I change my mind:
 - [ ] Capitalism Without Capital: The Rise of the Intangible Economy. Jonathan Haskel and Stian Westlake
 - [ ] Persépolis. Marjane Satrapi
 - [ ] EXPLORER: Futuristic Vehicles for Uncharted Christian Grajewski
+- [ ] I have no mouth and i must scream. Harlan Ellison
 
 Prehistoria de la Ciencia Ficción. de Laguna Libros
 
@@ -254,6 +255,8 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [x] El extranjero. Albert Camus
 - [x] La biblioteca de la media noche. Matt Haig
 - [x] El idiota. Fyodor Dostoyevsky
+- [x] We. Yevgueni Zamiatin
+
 
 #### Essays, papers and blogs
 
@@ -272,12 +275,17 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - About Time.
 - The perks of being a wallflower.
 - Prime (confesiones a mi suegra) 2005.
+- Parasite.
+- Star wars empire strikes back
 
 - [ ] Before Sunrise/Before Sunset/Before Midnight
 - [ ] In the mood for love
 - [ ] [Persian lesson](https://youtu.be/5FdRKMQMj4o?si=a4rjfoWoofKaEVmJ)
 - [ ] The Man from Earth
 - [ ] The pirates of silicon valley
+- [ ] Padington 2
+- [ ] Nosferatu
+- [ ] The social network
 
 ## Series
 
@@ -287,6 +295,11 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - Atypical.
 - The office.
 - Marco Polo.
+
+- [ ] Silicon Valley
+- [ ] Ted Lasso
+- [ ] Severance
+- [ ] Attack on Titan
 
 ## Poetry
 

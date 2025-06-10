@@ -285,6 +285,9 @@ This whimsical quote could be easily pass as a gag,  except it is repeated sever
 >
 > __--- Vaclav Havel, To the castle and back__
 
+> Los libros son un simulacro de recuerdo, una prótesis para recordar
+> __--- Héctor Abad Gómez,El olvido que seremos__
+
 ## STEM
 
 > Physics my friend is a narrow path drawn across a gulf that the human imagination cannot grasp
@@ -441,6 +444,9 @@ This quote captures the problem of making code accesible and understandable, a p
 <!---
 {{< youtube R9ITLdmfdLI >}}
 --->
+> When the drone delivery hype hit fever peak, one bit of nuance went overlooked. Consumers simply don´t care about how a package gets from b to c, so long as it’s quick, cost-efficient, and reliable. They’d opt for a new technology once for the novelty, but by the 100th time that wears off. Eventually rationality will return.
+>
+> __---Wendover productions [Drone Delivery Was Supposed to be the Future. What Went Wrong?](https://youtu.be/J-M98KLgaUU?si=P9Vzyhwra7EpJvsE)__
 
 ## Education and learning
 
