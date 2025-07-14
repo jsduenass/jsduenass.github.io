@@ -89,6 +89,8 @@ This contains list of: Movies worth watching, books that have shape me in one wa
 - [ ] Havel: A Life. Michael Zantovsky
 - [ ] Do androids dream of electric sheep. Philip K. Dick
 - [ ] Midnight in the Garden of Good and Evil.  John Berendt
+- [ ] A Billion Wicked Thoughts. Ogi Ogas, Sai Gaddam
+- [ ] Einstein in Kafkaland. Ken Krimstein
 
 ### Honorable mention
 
@@ -299,6 +301,7 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [ ] Silicon Valley
 - [ ] Ted Lasso
 - [ ] Severance
+- [ ] This is Us
 - [ ] Attack on Titan
 
 ## Poetry
