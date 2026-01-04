@@ -119,6 +119,7 @@
 &lt;li>Zipline&lt;/li>
 &lt;li>Anybotics&lt;/li>
 &lt;li>Auterion&lt;/li>
+&lt;li>Framework&lt;/li>
 &lt;li>Ocado&lt;/li>
 &lt;li>Gitlab&lt;/li>
 &lt;li>Intrinsic&lt;/li>
@@ -129,6 +130,7 @@
 &lt;li>Prusa&lt;/li>
 &lt;li>Onshape&lt;/li>
 &lt;li>Universal robots&lt;/li>
+&lt;li>Wing&lt;/li>
 &lt;li>JLCPCB&lt;/li>
 &lt;li>Mathworks&lt;/li>
 &lt;li>kiwibot&lt;/li>
@@ -205,29 +207,20 @@ ping jsds.local -4
 &lt;/blockquote>
 &lt;h2 id="reading-list">Reading list&lt;/h2>
 &lt;ul>
-&lt;li>&lt;input disabled="" type="checkbox"> A calendar of wisdom. Leo Tolstoy&lt;/li>
 &lt;li>&lt;input disabled="" type="checkbox"> Letters to a young scientist. Edward Osborne Wilson&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> The Success of Open Source. Steven Weber&lt;/li>
 &lt;li>&lt;input disabled="" type="checkbox"> &lt;a href="https://quantum.country/" target="_blank" rel="noopener">Quantum country&lt;/a>&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> La era del diamante. Neal Stephenson&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> The Martian. Andy Weir&lt;/li>
 &lt;li>&lt;input disabled="" type="checkbox"> The man in the high castle. Philip K. Dick&lt;/li>
 &lt;li>&lt;input disabled="" type="checkbox"> Masters of Doom. David Kushner&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Meditations. Marcus Aurelius&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Spare parts. Joshua Davis&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> My Philosophy of Industry. Henry Ford&lt;/li>
 &lt;li>&lt;input disabled="" type="checkbox"> Bloc by Bloc: How to Organize a Global Enterprise for the New Regional Order. Steven Weber&lt;/li>
 &lt;li>&lt;input disabled="" type="checkbox"> &lt;a href="http://web.mit.edu/klund/www/books/radlab.html" target="_blank" rel="noopener">The MIT Rad Lab Series&lt;/a>.&lt;/li>
 &lt;li>&lt;input disabled="" type="checkbox"> &lt;a href="https://dlf.uzh.ch/sites/sinofutures/2019/12/02/122/" target="_blank" rel="noopener">China 2185. liu cixin&lt;/a> &lt;a href="http://www.kehuan.net.cn/book/2185.html" target="_blank" rel="noopener">internet version&lt;/a>&lt;/li>
 &lt;li>&lt;input disabled="" type="checkbox"> &lt;a href="https://books.learnoutlive.com/learning-german-storytelling-baumgartner-momsen-detective-stories-german-learners-collectors-edition-1-5/?edition=ebook" target="_blank" rel="noopener">Baumgartner &amp;amp; Momsen Detective Stories for German Learners&lt;/a>&lt;/li>
 &lt;li>&lt;input disabled="" type="checkbox"> El límite de las mentiras: La polémica vida del Perito Francisco Pascasio Moreno 1852-1919. Gerardo Bartolomé&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Emilio o de la educación. Rousseau.&lt;/li>
 &lt;li>&lt;input disabled="" type="checkbox"> Historia social del conocimiento. Peter Burke&lt;/li>
 &lt;li>&lt;input disabled="" type="checkbox"> Seveneves. Neal Stephenson&lt;/li>
 &lt;li>&lt;input disabled="" type="checkbox"> It&amp;rsquo;s Been a Good Life. Isaac Asimov&lt;/li>
 &lt;li>&lt;input disabled="" type="checkbox"> Before i Leave You: A Memoir on Suicide, Addiction and Healing. Robert Imbeault&lt;/li>
 &lt;li>&lt;input disabled="" type="checkbox"> Johnny Got His Gun. Dalton Trumbo&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> El proceso. Franz Kafka&lt;/li>
 &lt;li>&lt;input disabled="" type="checkbox"> The Software Engineering at Google. Tom Manshreck&lt;/li>
 &lt;li>&lt;input disabled="" type="checkbox"> The road to reality. Roger Penrose&lt;/li>
 &lt;li>&lt;input disabled="" type="checkbox"> The Feynman Lectures on Physics&lt;/li>
@@ -236,6 +229,7 @@ ping jsds.local -4
 &lt;li>&lt;input disabled="" type="checkbox"> Where wizards stay up late. Katie Hafner&lt;/li>
 &lt;li>&lt;input disabled="" type="checkbox"> Hard drive bill gates and the making of the microsoft empire&lt;/li>
 &lt;li>&lt;input disabled="" type="checkbox"> Pale Blue Dot. Carl Sagan&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> The Boy, the Mole, the Fox and the Horse. Charlie Mackesy&lt;/li>
 &lt;li>&lt;input disabled="" type="checkbox"> Fish is Fish. Leo Lionni. Children&amp;rsquo;s book&lt;/li>
 &lt;li>&lt;input disabled="" type="checkbox"> The Book of the Thousand Nights and a Night. Burton&lt;/li>
 &lt;li>&lt;input disabled="" type="checkbox"> The reluctant dragon&lt;/li>
@@ -263,9 +257,6 @@ ping jsds.local -4
 &lt;li>&lt;input disabled="" type="checkbox"> How to read and why. Harold Bloom&lt;/li>
 &lt;li>&lt;input disabled="" type="checkbox"> Paradise Lost. John Milton&lt;/li>
 &lt;li>&lt;input disabled="" type="checkbox"> UNIX: A History and a Memoir. Brian W Kernighan&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Robot modeling and control. Mark W. Spong , Seth Hutchinson, M. Vidyasagar.&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Robotics vision and control. Peter Corke&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Introduction to autonomous mobile robots. Reza Nourbakhsh ans Roland Siegwart&lt;/li>
 &lt;li>&lt;input disabled="" type="checkbox"> Modern Control Engineering. Katsuhiko Ogata&lt;/li>
 &lt;li>&lt;input disabled="" type="checkbox"> The structure of scientific revolutions. Thomas kuhn&lt;/li>
 &lt;li>&lt;input disabled="" type="checkbox"> Flow My Tears, the Policeman Said. Philip K. Dick&lt;/li>
@@ -273,7 +264,6 @@ ping jsds.local -4
 &lt;li>&lt;input disabled="" type="checkbox"> Invitation To Contemporary Physics&lt;/li>
 &lt;li>&lt;input disabled="" type="checkbox"> Seeing voices. Oliver sacks&lt;/li>
 &lt;li>&lt;input disabled="" type="checkbox"> A river runs through it. Norman Maclean&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> La insoportable levedad del ser. Milan Kundera&lt;/li>
 &lt;li>&lt;input disabled="" type="checkbox"> The Joke. Milan Kundera&lt;/li>
 &lt;li>&lt;input disabled="" type="checkbox"> Havel: A Life. Michael Zantovsky&lt;/li>
 &lt;li>&lt;input disabled="" type="checkbox"> Do androids dream of electric sheep. Philip K. Dick&lt;/li>
@@ -282,12 +272,7 @@ ping jsds.local -4
 &lt;li>&lt;input disabled="" type="checkbox"> Einstein in Kafkaland. Ken Krimstein&lt;/li>
 &lt;/ul>
 &lt;h3 id="honorable-mention">Honorable mention&lt;/h3>
-&lt;p>don&amp;rsquo;t quite made the cut but worth to keep an eye on if I change my mind:&lt;/p></description></item><item><title>Introduction</title><link>https://jsduenass.github.io/posts/introduction/</link><pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate><guid>https://jsduenass.github.io/posts/introduction/</guid><description>&lt;p>Greeting! This is an introduction post. This post tests the followings:&lt;/p>
-&lt;ul>
-&lt;li>Hero image is in the same directory as the post.&lt;/li>
-&lt;li>This post should be at top of the sidebar.&lt;/li>
-&lt;li>Post author should be the same as specified in &lt;code>author.yaml&lt;/code> file.&lt;/li>
-&lt;/ul></description></item><item><title>Shortcodes Samples</title><link>https://jsduenass.github.io/posts/shortcodes/</link><pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate><guid>https://jsduenass.github.io/posts/shortcodes/</guid><description>&lt;p>This is a sample post intended to test the followings:&lt;/p>
+&lt;p>don&amp;rsquo;t quite made the cut but worth to keep an eye on if I change my mind:&lt;/p></description></item><item><title>Shortcodes Samples</title><link>https://jsduenass.github.io/posts/shortcodes/</link><pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate><guid>https://jsduenass.github.io/posts/shortcodes/</guid><description>&lt;p>This is a sample post intended to test the followings:&lt;/p>
 &lt;ul>
 &lt;li>Default hero image.&lt;/li>
 &lt;li>Different shortcodes.&lt;/li>
@@ -350,4 +335,5 @@ width="500"
 height="200"
 style="float: right;"
 >
-&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras egestas lectus sed leo ultricies ultricies. Praesent tellus risus, eleifend vel efficitur ac, venenatis sit amet sem. Ut ut egestas erat. Fusce ut leo turpis. Morbi consectetur sed lacus vitae vehicula. Cras gravida turpis id eleifend volutpat. Suspendisse nec ipsum eu erat finibus dictum. Morbi volutpat nulla purus, vel maximus ex molestie id. Nullam posuere est urna, at fringilla eros venenatis quis.&lt;/p></description></item></channel></rss>
+&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras egestas lectus sed leo ultricies ultricies. Praesent tellus risus, eleifend vel efficitur ac, venenatis sit amet sem. Ut ut egestas erat. Fusce ut leo turpis. Morbi consectetur sed lacus vitae vehicula. Cras gravida turpis id eleifend volutpat. Suspendisse nec ipsum eu erat finibus dictum. Morbi volutpat nulla purus, vel maximus ex molestie id. Nullam posuere est urna, at fringilla eros venenatis quis.&lt;/p></description></item><item><title/><link>https://jsduenass.github.io/posts/library/opinion-pieces/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jsduenass.github.io/posts/library/opinion-pieces/</guid><description>&lt;h2 id="spare-parts-by--joshua-davis">Spare parts by Joshua Davis&lt;/h2>
+&lt;p>I found their underdog story raising to accomplish great prowess in engineering inspiring. I could not help but compare their experiences across the different stages in their life journey and my own as it relates to robotics. I was drawn to finally read the book by the increase hostility I have seen in the public discussion about undocumented immigrants/ illegal aliens (how the semantics affect the sympathy we feel towards them). I am not sure if it is refreshing to know that the current turn for the worse, is not necessarily a new unprecedented phenomenon but the resurface of long-standing resentment towards “The other”. Knowing that the stigma existed as well 20 years ago gives some perspective not to be caught by the doom of present moment and work towards flipping the direction of the tide. A nitpick that sometimes bothered me was the way the story was mediated by the author, as I felt that some of his preconceive notions creep in, and in order to construct a narrative he typecast the participants in constrain roles that hinder the ability to hear their stories through the voices.&lt;/p></description></item></channel></rss>
