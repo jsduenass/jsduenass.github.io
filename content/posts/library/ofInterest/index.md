@@ -101,6 +101,7 @@ Because I seem to be pretty fond on lists, here are some more, of interesting in
 - Zipline
 - Anybotics
 - Auterion
+- Framework
 - Ocado
 - Gitlab
 - Intrinsic
@@ -111,6 +112,7 @@ Because I seem to be pretty fond on lists, here are some more, of interesting in
 - Prusa
 - Onshape
 - Universal robots
+- Wing
 - JLCPCB
 - Mathworks
 - kiwibot

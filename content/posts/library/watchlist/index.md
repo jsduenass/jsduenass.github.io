@@ -16,29 +16,20 @@ This contains list of: Movies worth watching, books that have shape me in one wa
 
 ## Reading list
 
-- [ ] A calendar of wisdom. Leo Tolstoy
 - [ ] Letters to a young scientist. Edward Osborne Wilson
-- [ ] The Success of Open Source. Steven Weber
 - [ ] [Quantum country](https://quantum.country/)
-- [ ] La era del diamante. Neal Stephenson
-- [ ] The Martian. Andy Weir
 - [ ] The man in the high castle.  Philip K. Dick
 - [ ] Masters of Doom. David Kushner
-- [ ] Meditations. Marcus Aurelius
-- [ ] Spare parts. Joshua Davis
-- [ ] My Philosophy of Industry. Henry Ford
 - [ ] Bloc by Bloc: How to Organize a Global Enterprise for the New Regional Order.  Steven Weber
 - [ ] [The MIT Rad Lab Series](http://web.mit.edu/klund/www/books/radlab.html).
 - [ ] [China 2185. liu cixin](https://dlf.uzh.ch/sites/sinofutures/2019/12/02/122/) [internet version](http://www.kehuan.net.cn/book/2185.html)
 - [ ] [Baumgartner & Momsen Detective Stories for German Learners](https://books.learnoutlive.com/learning-german-storytelling-baumgartner-momsen-detective-stories-german-learners-collectors-edition-1-5/?edition=ebook)
 - [ ] El límite de las mentiras: La polémica vida del Perito Francisco Pascasio Moreno 1852-1919. Gerardo Bartolomé
-- [ ] Emilio o de la educación. Rousseau.
 - [ ] Historia social del conocimiento. Peter Burke
 - [ ] Seveneves. Neal Stephenson
 - [ ] It's Been a Good Life. Isaac Asimov
 - [ ] Before i Leave You: A Memoir on Suicide, Addiction and Healing. Robert Imbeault
 - [ ] Johnny Got His Gun. Dalton Trumbo
-- [ ] El proceso. Franz Kafka
 - [ ] The Software Engineering at Google. Tom Manshreck
 - [ ] The road to reality. Roger Penrose
 - [ ] The Feynman Lectures on Physics
@@ -47,6 +38,7 @@ This contains list of: Movies worth watching, books that have shape me in one wa
 - [ ] Where wizards stay up late. Katie Hafner
 - [ ] Hard drive bill gates and the making of the microsoft empire
 - [ ] Pale Blue Dot. Carl Sagan
+- [ ] The Boy, the Mole, the Fox and the Horse. Charlie Mackesy
 - [ ] Fish is Fish. Leo Lionni. Children's book
 - [ ] The Book of the Thousand Nights and a Night.  Burton
 - [ ] The reluctant dragon
@@ -74,17 +66,13 @@ This contains list of: Movies worth watching, books that have shape me in one wa
 - [ ] How to read and why. Harold Bloom
 - [ ] Paradise Lost. John Milton
 - [ ] UNIX: A History and a Memoir. Brian W Kernighan
-- [ ] Robot modeling and control.  Mark W. Spong , Seth Hutchinson,  M. Vidyasagar.
-- [ ] Robotics vision and control. Peter Corke
-- [ ] Introduction to autonomous mobile robots. Reza Nourbakhsh ans Roland Siegwart
-- [ ] Modern Control Engineering. Katsuhiko Ogata 
+- [ ] Modern Control Engineering. Katsuhiko Ogata
 - [ ] The structure of scientific revolutions. Thomas kuhn
 - [ ] Flow My Tears, the Policeman Said. Philip K. Dick
-- [ ] Smoke Gets in Your Eyes: And Other Lessons From the Crematorium. Caitlin Doughty 
+- [ ] Smoke Gets in Your Eyes: And Other Lessons From the Crematorium. Caitlin Doughty
 - [ ] Invitation To Contemporary Physics
 - [ ] Seeing voices. Oliver sacks
 - [ ] A river runs through it. Norman Maclean
-- [ ] La insoportable levedad del ser. Milan Kundera
 - [ ] The Joke. Milan Kundera
 - [ ] Havel: A Life. Michael Zantovsky
 - [ ] Do androids dream of electric sheep. Philip K. Dick
@@ -96,7 +84,6 @@ This contains list of: Movies worth watching, books that have shape me in one wa
 
 don't quite made the cut but worth to keep an eye on if I change my mind:
 
-- [ ] The Design of Everyday Things. Donald Norman
 - [ ] The Invisible Computer. Donald Norman
 - [ ] Turn Signals Are The Facial Expressions Of Automobiles. Donald Norman
 - [ ] My grandmother asked me tell you she's sorry. Fredrik Backman
@@ -109,16 +96,15 @@ don't quite made the cut but worth to keep an eye on if I change my mind:
 - [ ] Organizational Communication: Balancing Creativity and Constraint. Eric M. Eisenberg
 - [ ] Site Reliability Engineering: How Google Runs Production. Niall Richard Murphy
 - [ ] Dynamics: the Geometry of Behavior. Ralph Abraham
-- [ ] Shop management. Frederick taylor
+- [ ] Shop management. Frederick Taylor
 - [ ] The History of the Decline and Fall of the Roman Empire. Edward Gibbon. Inspiration for Isaac Asimov's foundation series
 - [ ]  [punkt und linie zu fläche. kandinsky](https://youtu.be/8Ab3ArE8W3s?t=1309)
-- [ ] history of control engineering. Bennett
+- [ ] History of control engineering. Bennett
 - [ ] Infamous Scribblers: The Founding Fathers and the Rowdy Beginnings of American Journalism. Eric Burns
 - [ ] Thread Of The Silkworm. Iris Chang (Qian Xuesen biography)
 - [ ] A Canticle for Leibowitz. Walter Michael Miller
 - [ ][Softwares para la visualización estadística. Camila Acosta Ramirez](estadisticaun.github.io/Softwares/)
 - [ ] How to Draw: drawing and sketching objects and environments from your imagination.  Scott Robertson and Thomas Bertling
-- [ ] Parable of the talents. Octavia E. Butler
 - [ ] Working in Public: The Making and Maintenance of Open Source Software. Nadia Eghbal
 - [ ] Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure. Nadia Eghbal
 - [ ] La Historia de Nintendo. Florent Gorges
@@ -141,8 +127,7 @@ don't quite made the cut but worth to keep an eye on if I change my mind:
 - [ ] La invención de la naturaleza. Andrea wulf
 - [ ] Butterfly Kills: A Stonechild and Rouleau Mystery. Brenda Chapman
 - [ ] alias Grace. Margaret Atwood
-- [ ] Sprint: How to Solve big Problems and Test new Ideas in Just Five Days. Jake Knapp
-- [ ] The Perfectionists: How Precision Engineers Created the Modern. Simon Winchester 
+- [ ] The Perfectionists: How Precision Engineers Created the Modern. Simon Winchester
 - [ ] Cuerpos luminares y de otras dimensiones. Rodrigo Bastidas
 - [ ] Nunca te quise dar en la jeta javier. Juan Alvarez
 - [ ] Gödel, Escher, Bach: un Eterno y Grácil Bucle. Douglas Hofstadter
@@ -157,10 +142,16 @@ don't quite made the cut but worth to keep an eye on if I change my mind:
 - [ ] "International Business Transactions: A Problem-Oriented Coursebook" by Daniel C.K. Chow and Thomas J. Schoenbaum
 - [ ] Hack Your Bureaucracy: Get Things Done No Matter What Your Role on Any Team
 - [ ] The (Delicate) Art of Bureaucracy. Mark Schwartz
-- [ ] Capitalism Without Capital: The Rise of the Intangible Economy. Jonathan Haskel and Stian Westlake
 - [ ] Persépolis. Marjane Satrapi
 - [ ] EXPLORER: Futuristic Vehicles for Uncharted Christian Grajewski
 - [ ] I have no mouth and i must scream. Harlan Ellison
+- [ ] Finnegans Wake. James Joyce
+- [ ] Dublineses. James Joyce
+- [ ] Wildseed. Octavia E. Butler
+- [ ] The Journey : A Big Panda and Tiny Dragon. James Norbury
+- [ ] The Boy, The Mole, The Fox and The Horse. Charlie Mackesy
+- [ ] Great expectations. Charles Dickens
+- [ ] The art of slow living. Samar Cajal
 
 Prehistoria de la Ciencia Ficción. de Laguna Libros
 
@@ -182,6 +173,7 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [x] Los hermanos kamarazov. Fyodor Dostoyevsky.   [The Problem of Evil: Crash Course Philosophy](https://www.youtube.com/watch?v=9AzNEG1GB-k)  
 - [x] La guía del autoestopista intergaláctico. Douglas Adams
 - [x] Dune. Frank Herbert
+- [x] Parable of the talents. Octavia E. Butler
 - [x] Ensayo sobre la ceguera. José Saramago
 - [x] La nave de un millón de años. Poul Anderson
 - [x] Visiones de robot. Isaac Asimov
@@ -196,11 +188,13 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [x] Bootstrapping Douglas Endelbart and the origins of Personal Computing. Thierry Bardin
 - [x] The Human Use of Human Beings. Norbert Weiner
 - [x] Guerra y paz. Leon Tolsoi
+- [x] La era del diamante. Neal Stephenson
 - [x] A tale of two cities. Charles Dickens
 - [x] París. Edward Rutherfurd
 - [x] Paris del siglo xx. Julio Verne
 - [x] El techo del mundo. Angel Gutierrez y David Zurdo
 - [x] Surely you´re joking, Mr. Feynman. Feynman, Richard Phillips
+- [x] My Philosophy of Industry. Henry Ford
 - [x] Frankenstein o el moderno Prometeo. Marry Shelly
 - [x] Cibernética. Norbert Weiner
 - [x] Today and tomorrow. Henry Ford
@@ -212,8 +206,9 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [x] Vivir para contarla. Gabriel Garcia Marquez
 - [x] El otoño del patriarca. Gabriel Garcia Marquez
 - [x] Cien años de soledad. Gabriel Garcia Marquez
+- [x] La insoportable levedad del ser. Milan Kundera
 - [x] El mito de sisifo. Albert Camus
-- [x] Capitalist without capital. Nathan Latka
+- [X] Capitalism Without Capital: The Rise of the Intangible Economy. Jonathan Haskel and Stian Westlake
 - [x] Spies of No Country. Matti Friedman
 - [x] El problema de los 3 cuerpos. Liu Cixin
 - [x] El fin de la eternidad. Isaac Asimov
@@ -230,6 +225,7 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [x] La riqueza de las naciones. Adam Smith
 - [x] Yours, Isaac Asimov: A Life in Letters
 - [x] Guía Asimov para la Biblia. Isaac Asimov
+- [x] The process. Franz kafka
 - [x] Brave New World. Aldous Huxley
 - [x] Si una Noche de Invierno un Viajero. Italo Calvino
 - [x] Los amores difíciles. Italo calvino
@@ -248,6 +244,7 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 
 - [x] So Good They Can't Ignore You. Cal Newport
 - [x] Memories, Dreams, Reflections. Carl Jung
+- [x] Spare parts. Joshua Davis.
 - [X] Spare parts. Buzz Williams
 - [x] Ensayo sobre la lucidez. José Saramago
 - [x] No excuses. brian tracy
@@ -259,6 +256,19 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [x] El idiota. Fyodor Dostoyevsky
 - [x] We. Yevgueni Zamiatin
 
+### Bought but not read yet
+
+- [ ] Emilio o de la educación. Rousseau.
+- [ ] The Design of Everyday Things. Donald Norman
+- [ ] Sprint: How to Solve big Problems and Test new Ideas in Just Five Days. Jake Knapp
+- [ ] A calendar of wisdom. Leo Tolstoy
+- [ ] The Success of Open Source. Steven Weber
+- [ ] The Martian. Andy Weir
+- [ ] Meditations. Marcus Aurelius
+- [ ] Robot modeling and control.  Mark W. Spong , Seth Hutchinson,  M. Vidyasagar.
+- [ ] Robotics vision and control. Peter Corke
+- [ ] Introduction to autonomous mobile robots. Reza Nourbakhsh ans Roland Siegwart
+- [ ] New Kind of Science. Stephen Wolfram
 
 #### Essays, papers and blogs
 
@@ -277,17 +287,33 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - About Time.
 - The perks of being a wallflower.
 - Prime (confesiones a mi suegra) 2005.
+- No se acepta devoluciones.
 - Parasite.
 - Star wars empire strikes back
+- The spideverse
+- The pianist.
+- Sinister 2
+
+- One battle after another
+- Mickey 17
 
 - [ ] Before Sunrise/Before Sunset/Before Midnight
 - [ ] In the mood for love
 - [ ] [Persian lesson](https://youtu.be/5FdRKMQMj4o?si=a4rjfoWoofKaEVmJ)
 - [ ] The Man from Earth
+- [ ] Elio
+- [ ] I bite
+- [ ] Past lives
+- [ ] Office space
+- [ ] Wall street
+- [ ] Jojo rabbit
+- [ ] The great dictator
+- [ ] There will be blood
 - [ ] The pirates of silicon valley
 - [ ] Padington 2
 - [ ] Nosferatu
 - [ ] The social network
+- [ ] Gangs of new york
 
 ## Series
 
@@ -302,7 +328,20 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [ ] Ted Lasso
 - [ ] Severance
 - [ ] This is Us
+- [ ] Fundation
+- [ ] Young Sheldon
+- [ ] House of lies
 - [ ] Attack on Titan
+
+## Theater
+
+- Hamilton
+- The lion king
+- La dama de negro
+- Elixir de amor.
+
+- [ ] Pagliacci
+- [ ] Esquizofrenia. Rafael Perrin
 
 ## Poetry
 
@@ -319,6 +358,7 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - Famous views of the sixty-odd provinces
 - Robert Doisneau
 - Peter Tunney
+- Jack Vettriano
 
 ## Places
 
