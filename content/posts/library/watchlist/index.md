@@ -152,6 +152,7 @@ don't quite made the cut but worth to keep an eye on if I change my mind:
 - [ ] The Boy, The Mole, The Fox and The Horse. Charlie Mackesy
 - [ ] Great expectations. Charles Dickens
 - [ ] The art of slow living. Samar Cajal
+- [ ] Svědectví o životě v KLDR (Testimony of life in North Korea). Nina Špitalková
 
 Prehistoria de la Ciencia Ficción. de Laguna Libros
 

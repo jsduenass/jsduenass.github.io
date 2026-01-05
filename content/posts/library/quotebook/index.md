@@ -292,20 +292,50 @@ For me the highest Court has some religious overtones.
 
 This sentence showcases complex psychology of the characters and the conflicted relationship between mother and daughter.
 
-
+> "Early on, when I told people about the Destiny, and most of them laughed, I was afraid. I worried that I couldn't do this, couldn't reach people and help them see truth. Later, when the people of Acorn began to accept all the Eathseed teachings except the Destiny, I worried more. People seem to be willing to believe all kinds of stupid things - magic, the supernatural, witchcraft ... But I couldn't get them to believe in something real, something that they could make real with their own hands. Now .. now most of the people here accept the Destiny. They believe me and follow me, and damned if I don't worry even more" 
+> 
+> "You never said so" Bankole reached out and took my hands between his. 
+>
 > "What could I say? That I believe in Earthseed, yet I doubt my own abilities? that I 'm afraid all the time?" I sighed. "That's where faith comes in, I guess. It always comes sooner or later into every belief system. In this case it's have faith and work your ass off. Have faith and work the asses off a hell of a lot of people. I realize all that but I'm still afraid" ...
 >
 > I suspect that logic isn't involved in trying to found a new religion and then having doubts about it either".
 >
 > "my doubts are personal", I said. "You know that  I doubt myself not Earthseed. I worry that I might not be able to make Earthseed anything more than another little cult". 
 >
-> __---  Octavia E. Butler, The parable of the talents__
+> __---  Octavia E. Butler, The parable of the talents. Page 178__
 
 > That is why the Destiny of Earthseed is to take root among the starts. ...
 >
-> "Early on, when I told people about the Destiny, and most of them laughed, I was afraid. I worried that I couldn't do this , couldn't reach people  and help them see truth. Later, when the people of Acorn began to accept all the Eathseed teaching except the Destiny 
+> __---  Octavia E. Butler, The parable of the talents__
 
-have a vision 
+
+have a vision and have doubts the way Olamina have them. 
+
+> yet shorsighted is exactly what she was. She sacrificed us for an idea. And if she didn't know what she was doing she should have known .. if her good days were to be in the future on some extrasolar world, that only made them more pathetically unreal.
+>
+> __---  Octavia E. Butler, The parable of the talents__
+
+> " You will forgive me for ruining the surprise", he said, "by telling you that this is a book, my darling. A magic book. I made it for you, because I love you and could not think of a better way to express that love. And whenever you open its pages, no matter how far away I might be, you will find me here."
+>
+> __--- Neal Stephenson, The diamond age__
+> Sages, seers, and theoretical physicists could only speculate at what, if any, relationship might exist between the Shangahai Police Department's astonishing scope of activities and actual law enforcement.
+> __--- Neal Stephenson, The diamond age__
+Whimsical way of showcasing corruption and overreach of power.
+
+
+> In order to raise a generation of children who can reach their full potential, we must find a way to make their lives interesting.And the question I have for you, Mr. Hackworth, is this: Do you think that our schools accomplish that?
+>
+> __--- Neal Stephenson, The diamond age__
+
+> He was trying to think of a request as difficult as possible, aware that any argument on the quality of the verse the machine might be able to produce would be hard if not impossible to settle either way. Suddenly he brightened and said:
+>
+> 'Have it compose a poem - a poem about a haircut! But lofty, noble, tragic, timeless, full of love, treachery, retribution, quiet herism in the face of certain doom! Six lines, cleverly rhymed, and every word beginning with the letter s!!'
+> 
+> __--- Stanislaw Lem, The Cyberiad__
+
+> Why, he wondered, did so many people spend their lives not trying to find answers to question - not even thinking of quiestions to begin with? Was there anything more exciting in life than seeking answers?
+>
+> __--- Isaac Asimov, Prelude to Foundation__
 
 ## STEM
 
@@ -648,6 +678,10 @@ it is fascinating to see how an indicator of economic prosperity has shifted fro
 > No the bad part is when you forget her. when you don't care about her when you don't care anything. The bad part is comming. So enjoy the heartbreak while you can. For god sakes. 
 >
 > __--- [Louie](https://youtu.be/V_eCrIO0ECw?si=bgER9w0DkXYK-JCE)__
+
+> we can move on and welcome others into our lives as a priority.
+>
+> __--- Renee__
 
 [Lex Fridman Podcast | James Sexton: Divorce Lawyer](https://youtu.be/fUEjCXpOjPY?si=0tFp4l6P7_BDeCQc)
 
