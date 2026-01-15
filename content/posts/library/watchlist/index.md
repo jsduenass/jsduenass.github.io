@@ -79,6 +79,8 @@ This contains list of: Movies worth watching, books that have shape me in one wa
 - [ ] Midnight in the Garden of Good and Evil.  John Berendt
 - [ ] A Billion Wicked Thoughts. Ogi Ogas, Sai Gaddam
 - [ ] Einstein in Kafkaland. Ken Krimstein
+- [ ] Dusk of Dawn. W.E.B. Du Bois
+- [ ] Mind Over Mood. Dennis Greenberger and Christine A. Padesky
 
 ### Honorable mention
 
@@ -153,6 +155,8 @@ don't quite made the cut but worth to keep an eye on if I change my mind:
 - [ ] Great expectations. Charles Dickens
 - [ ] The art of slow living. Samar Cajal
 - [ ] Svědectví o životě v KLDR (Testimony of life in North Korea). Nina Špitalková
+- [ ] The Printing Press as an Agent of Change. Elizabeth L. Eisenstein
+
 
 Prehistoria de la Ciencia Ficción. de Laguna Libros
 
@@ -315,6 +319,8 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [ ] Nosferatu
 - [ ] The social network
 - [ ] Gangs of new york
+- [ ] Un poeta
+- [ ] Perfect days
 
 ## Series
 
@@ -328,6 +334,7 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [ ] Silicon Valley
 - [ ] Ted Lasso
 - [ ] Severance
+- [ ] War and peace bbc
 - [ ] This is Us
 - [ ] Fundation
 - [ ] Young Sheldon
@@ -369,3 +376,4 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [x] Puerto Varas, Chile
 - [ ] Silfra, Iceland. Dive between the continents  Thingvellir National Park
 - [ ] Ushuaia Argentina
+- [ ]  Daryl’s House, Pawling, NY. [Music venue owned by Daryl Hall](https://youtu.be/4qHcRztwpAw?si=07gSZr358Se9CPj8)

@@ -83,6 +83,9 @@ Antítesis entre la belleza de los lirios y el malestar que representan.
 > 
 > __--- Leon Tolstoi, Guerra y paz__
 
+
+Ensayos de historia [libro 9 capitulo 1](https://www.marxists.org/archive/tolstoy/1869/war-and-peace/book-9-chapter-1.html?utm_source=chatgpt.com) [libro 11 capitulo 1](https://www.marxists.org/archive/tolstoy/1869/war-and-peace/book-11-chapter-1.html) [epilogo 2](https://www.marxists.org/archive/tolstoy/1869/war-and-peace/epilogue-2-chapter-1.html).
+
 > El fuego detrás del cuarzo estaba ahora débil, encaminándose a regañadientes hacia la muerte.
 >
 >__--- Isaac Asimov, se puede evitar un conflicto__
@@ -759,6 +762,8 @@ it is fascinating to see how an indicator of economic prosperity has shifted fro
 
 The God of the gaps
 
+Eudaimonia
+
 ### Time by Pink Floyd
 
 {{< youtube JwYX52BP2Sk >}}
@@ -900,6 +905,53 @@ My favorite is rule 10 as it gives you the grace, that even while "knowing" all 
 > Era precisamente el deseo impaciente de los estudiante de hacer el trabajo auna velocidad que no era la adecuada, de correr hasta terminarlo, lo que impedia que progresaran. No podían soporta el malestar que les producia verse obligados a reconocer su limitado control sobre la velocidad del proceso creativo, así que trataba de evitarlo , ya fuera no poniendose a trabajar en absoluto o lanzándose de cabeza a estresantes maratones de escritura que duraban días enteros. Y que los llevaban más adelante a procrastinar, porque acababan odiando lo que tenían que hacer.
 >
 > __--- Oliver Burkeman, cuatromil semanas Gestión del tiempo para mortales__
+
+
+> Before I forget
+>
+> let me start
+>
+> by wishing you a hapy birthday
+>
+>
+> we've choosen a day
+>
+> the day you were born
+> 
+> to celebrate you 
+> 
+> and all what you've done
+>
+>
+> it's just an excuse
+>
+> to say it out loud
+>
+> how special you are
+>
+> you make us all proud
+>
+>
+> you are funny and kind
+>
+> and know what to say
+>
+> but above all
+>
+> you know euler's number to the x place
+>
+> and somehow it relates
+>
+> to the 17th president of the united states
+>
+>
+> I want to say thank you
+>
+> for every moment we share
+>
+> wish you the best
+>
+> -- Sebastian
 
 ## Sayings
 
