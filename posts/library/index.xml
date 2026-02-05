@@ -1,193 +1,135 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Library on Sebastian D 🇨🇴</title><link>https://jsduenass.github.io/posts/library/</link><description>Recent content in Library on Sebastian D 🇨🇴</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 27 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jsduenass.github.io/posts/library/index.xml" rel="self" type="application/rss+xml"/><item><title>Of interest</title><link>https://jsduenass.github.io/posts/library/ofinterest/</link><pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate><guid>https://jsduenass.github.io/posts/library/ofinterest/</guid><description>&lt;p>Because I seem to be pretty fond on lists, here are some more, of interesting institutions universities and people doing amazing work.&lt;/p>
-&lt;h1 id="universities">Universities&lt;/h1>
-&lt;ul>
-&lt;li>ETH Zürich.
-&lt;ul>
-&lt;li>&lt;a href="https://github.com/ethz-asl" target="_blank" rel="noopener">Autonomous Systems Lab&lt;/a>, Roland Siegwart&lt;/li>
-&lt;li>&lt;a href="https://github.com/leggedrobotics" target="_blank" rel="noopener">robotics system lab&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>DelftTU. &lt;a href="https://delftswa.gitbooks.io/desosa2016/content/" target="_blank" rel="noopener">Software architecture&lt;/a>
-&lt;ul>
-&lt;li>&lt;a href="https://github.com/tudelft" target="_blank" rel="noopener">https://github.com/tudelft&lt;/a>&lt;/li>
-&lt;li>delftswa.github.io&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>Caltech&lt;/li>
-&lt;li>MIT&lt;/li>
-&lt;li>UC Berkeley&lt;/li>
-&lt;li>Stanford&lt;/li>
-&lt;li>UPV (universidad politecnica de Valencia)&lt;/li>
-&lt;li>URJC universidad rey juan carlos&lt;/li>
-&lt;li>Universidad carlos iii madrid UC3M&lt;/li>
-&lt;li>Stuttgart university, engineering cybernetics. Master of Science (MSc) focused in Mechatronics, Robotics, and Automation Engineering from University of Stuttgar.&lt;/li>
-&lt;li>Twente university. Sid Sijbrandij gitlab, &lt;a href="https://www.youtube.com/channel/UCAB2bLpeVElJN2jDyF14zsQ" target="_blank" rel="noopener">roboteam&lt;/a>, &lt;a href="https://www.youtube.com/watch?v=TvSTCM7SjGs" target="_blank" rel="noopener">Student report&lt;/a>&lt;/li>
-&lt;li>Eindhoven TU/e paises bajos, &lt;a href="https://github.com/tue-robotics/" target="_blank" rel="noopener">github&lt;/a> &lt;a href="https://www.techunited.nl/en/" target="_blank" rel="noopener">Tech United Eindhoven&lt;/a>&lt;/li>
-&lt;li>Politecnico de lausanne&lt;/li>
-&lt;li>FH Aachen&lt;/li>
-&lt;li>TU München Munich&lt;/li>
-&lt;li>TU Berlin&lt;/li>
-&lt;li>TU Dresden&lt;/li>
-&lt;li>Czech Technical University in Prague&lt;/li>
-&lt;li>TU ilmenau.Technical Cybernetics and Systems Theory&lt;/li>
-&lt;li>University of Waterloo&lt;/li>
-&lt;li>university of Alberta&lt;/li>
-&lt;li>Hong Kong Polytechnic University&lt;/li>
-&lt;li>university of washington seattle&lt;/li>
-&lt;li>West Virginia University&lt;/li>
-&lt;li>TU Braunschweig &lt;a href="https://www.youtube.com/watch?v=V5vpwVFMPqs" target="_blank" rel="noopener">Robot Swarms&lt;/a>&lt;/li>
-&lt;li>TU Kaiserslautern&lt;/li>
-&lt;li>University of Nothinham. numberphile&lt;/li>
-&lt;li>IIT Gandhinagar&lt;/li>
-&lt;li>Fachhochschule Wedel University of Applied Sciences&lt;/li>
-&lt;/ul>
-&lt;h2 id="people">People&lt;/h2>
-&lt;ul>
-&lt;li>Paul Graham. YCombinator&lt;/li>
-&lt;li>Lex Fridman&lt;/li>
-&lt;li>Keenan Wyrobek. zipline&lt;/li>
-&lt;li>Sid Sijbrandij. gitlab&lt;/li>
-&lt;li>Raffaello d&amp;rsquo;andrea. Drones&lt;/li>
-&lt;li>Robert Playter. Boston Dynamics&lt;/li>
-&lt;li>Lorenz Meier. Auterion drone company&lt;/li>
-&lt;li>Peter Corke. robotics toolbox&lt;/li>
-&lt;li>Professor Jeff Hoffman. &lt;a href="https://www.youtube.com/watch?v=bvxqCAkjDxs" target="_blank" rel="noopener">Introduction to aerospace engineerign: Astronautics and Human Spaceflight&lt;/a>&lt;/li>
-&lt;li>Randy Pausch. Alice python &lt;a href="https://archive.org/details/GabrielRobins-50YearsOfComputerScienceInnovationByRandyPausch812" target="_blank" rel="noopener">lecture&lt;/a>&lt;/li>
-&lt;li>Rich Harris. svelte&amp;rsquo;s creator&lt;/li>
-&lt;li>Dario Floreano. Bio inspired robots&lt;/li>
-&lt;li>Eric Tsui. knowledge management&lt;/li>
-&lt;li>Stephen Wolfram&lt;/li>
-&lt;li>Fabian Riether and Sertac Karaman &lt;a href="https://github.com/Parrot-Developers/RollingSpiderEdu" target="_blank" rel="noopener">minidrone MATLAB&lt;/a>&lt;/li>
-&lt;li>Jaron Lanier &lt;a href="https://youtu.be/rGqiswuJuQI" target="_blank" rel="noopener">Who is civilization for&lt;/a>&lt;/li>
-&lt;li>Arie van Deursen. software arquitecture DelftTU&lt;/li>
-&lt;li>Rodney Brooks. directorof MIT&amp;rsquo;s Computer Science and Artificial Intelligence Laboratory&lt;/li>
-&lt;li>Ali Agha. Principal Investigator and Research Technologist at NASA&amp;rsquo;s JPL and Caltech’s Center for Autonomous Systems and Technologies (CAST)&lt;/li>
-&lt;li>Michael Nielsen. Quatum computing&lt;/li>
-&lt;li>Vadim Pisarevsky. openCV developer&lt;/li>
-&lt;li>Homayoon Kazerooni. robotics UC berkeley&lt;/li>
-&lt;li>Carlos Galeano. NASA&lt;/li>
-&lt;li>J. Edward Colgate. haptics&lt;/li>
-&lt;li>John Kenneth Salisbury. robotics haptics&lt;/li>
-&lt;li>Brendan Schulman&lt;/li>
-&lt;li>Federico Faggin. synaptics&lt;/li>
-&lt;li>Victoria Lemieux. Electronic Document &amp;amp; Records Management System Implementation&lt;/li>
-&lt;li>Cleve Moler. Mathworks creator&lt;/li>
-&lt;li>Gen Sasaki. Mathworks&lt;/li>
-&lt;li>Roger D. Launius. chief historian NASA&lt;/li>
-&lt;li>John Carmack. Best programmer (allegedly)&lt;/li>
-&lt;li>Don Norman. Father of UX&lt;/li>
-&lt;li>Sergei Lupashin&lt;/li>
-&lt;li>Adrian Bowyer. RepRap&lt;/li>
-&lt;li>Peo Hansen. Migration&lt;/li>
-&lt;li>Rob Cohee. Product Manager Fusion360&lt;/li>
-&lt;/ul>
-&lt;h2 id="institutions">Institutions&lt;/h2>
-&lt;ul>
-&lt;li>DLR institute of robotics and mechatronics&lt;/li>
-&lt;li>Bell Labs&lt;/li>
-&lt;li>NASA JPL&lt;/li>
-&lt;/ul>
-&lt;h2 id="companies">Companies&lt;/h2>
-&lt;ul>
-&lt;li>Boston Dynamics&lt;/li>
-&lt;li>Zipline&lt;/li>
-&lt;li>Anybotics&lt;/li>
-&lt;li>Auterion&lt;/li>
-&lt;li>Framework&lt;/li>
-&lt;li>Ocado&lt;/li>
-&lt;li>Gitlab&lt;/li>
-&lt;li>Intrinsic&lt;/li>
-&lt;li>Amazon robotics&lt;/li>
-&lt;li>DJI&lt;/li>
-&lt;li>Formlabs&lt;/li>
-&lt;li>Markforged&lt;/li>
-&lt;li>Prusa&lt;/li>
-&lt;li>Onshape&lt;/li>
-&lt;li>Universal robots&lt;/li>
-&lt;li>Wing&lt;/li>
-&lt;li>JLCPCB&lt;/li>
-&lt;li>Mathworks&lt;/li>
-&lt;li>kiwibot&lt;/li>
-&lt;li>Esri&lt;/li>
-&lt;/ul></description></item><item><title>Quotebook</title><link>https://jsduenass.github.io/posts/library/quotebook/</link><pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate><guid>https://jsduenass.github.io/posts/library/quotebook/</guid><description>&lt;p>This is a collection of quotes I found interesting in one way or another.&lt;/p>
-&lt;h2 id="literature">Literature&lt;/h2>
-&lt;blockquote>
-&lt;p>The fact we live at the bottom of a deep gravity well, on the surface of a gas covered planet going around a nuclear fireball 90 million miles away and think this to be normal is obviously some indication of how skewed our perspective tends to be.&lt;/p>
-&lt;p>&lt;strong>&amp;mdash; Douglas Adams&lt;/strong>&lt;/p>
-&lt;/blockquote>
-&lt;blockquote>
-&lt;p>Así también un orbe entero, con toda su pequeñez y su grandeza, puede ubicarse en una estrella que titila en la inmensidad del espacio, y así como la mera ciencia humana es capaz de dividir un rayo de luz y analizar su composición, así tambien otras inteligencias más excelsas podrán leer acaso en el tenue brillar de esta tierra nuestra todo pensamiento y toda acción, todo vicio y toda virtud de cada uno de los seres responsables que la pueblan.&lt;/p></description></item><item><title>WatchList</title><link>https://jsduenass.github.io/posts/library/watchlist/</link><pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate><guid>https://jsduenass.github.io/posts/library/watchlist/</guid><description>&lt;p>This contains list of: Movies worth watching, books that have shape me in one way or another and those I have yet to read and one day I would get to reading them.&lt;/p>
-&lt;blockquote>
-&lt;p>There is never enough time to do everything but there is always enough time to do the most important things&lt;/p>
-&lt;/blockquote>
-&lt;h2 id="reading-list">Reading list&lt;/h2>
-&lt;ul>
-&lt;li>&lt;input disabled="" type="checkbox"> Letters to a young scientist. Edward Osborne Wilson&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> &lt;a href="https://quantum.country/" target="_blank" rel="noopener">Quantum country&lt;/a>&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> The man in the high castle. Philip K. Dick&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Masters of Doom. David Kushner&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Bloc by Bloc: How to Organize a Global Enterprise for the New Regional Order. Steven Weber&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> &lt;a href="http://web.mit.edu/klund/www/books/radlab.html" target="_blank" rel="noopener">The MIT Rad Lab Series&lt;/a>.&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> &lt;a href="https://dlf.uzh.ch/sites/sinofutures/2019/12/02/122/" target="_blank" rel="noopener">China 2185. liu cixin&lt;/a> &lt;a href="http://www.kehuan.net.cn/book/2185.html" target="_blank" rel="noopener">internet version&lt;/a>&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> &lt;a href="https://books.learnoutlive.com/learning-german-storytelling-baumgartner-momsen-detective-stories-german-learners-collectors-edition-1-5/?edition=ebook" target="_blank" rel="noopener">Baumgartner &amp;amp; Momsen Detective Stories for German Learners&lt;/a>&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> El límite de las mentiras: La polémica vida del Perito Francisco Pascasio Moreno 1852-1919. Gerardo Bartolomé&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Historia social del conocimiento. Peter Burke&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Seveneves. Neal Stephenson&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> It&amp;rsquo;s Been a Good Life. Isaac Asimov&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Before i Leave You: A Memoir on Suicide, Addiction and Healing. Robert Imbeault&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Johnny Got His Gun. Dalton Trumbo&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> The Software Engineering at Google. Tom Manshreck&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> The road to reality. Roger Penrose&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> The Feynman Lectures on Physics&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> This is how they tell me the world ends. Nicole Perlroth&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Self-Reliance. Ralph Waldo Emerson&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Where wizards stay up late. Katie Hafner&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Hard drive bill gates and the making of the microsoft empire&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Pale Blue Dot. Carl Sagan&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> The Boy, the Mole, the Fox and the Horse. Charlie Mackesy&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Fish is Fish. Leo Lionni. Children&amp;rsquo;s book&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> The Book of the Thousand Nights and a Night. Burton&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> The reluctant dragon&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> The walking drum. Louis L. Amoun&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Introduction to quantum mechanics. David Griffiths&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> The time machine. H.G wells&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> How to solve it. George Poyla&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Los años de aprendizaje de Wilhelm Meister. Wolfgang Goethe&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> En busca del tiempo perdido. Marcel Proust&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> How we learn. Benedic Carey&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Armas de instrucción masiva. John Taylor Gatto&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> The pig that wants to be eaten. Julian Baggani&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> La Revolución Historiográfica Francesa. Peter Burke&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Por las grutas y selvas del Indostán. Helena Blavatsky&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Diagnosing the System for Organizations. Stafford Beer&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Social Commitments in a Depersonalized World. Shane R. Thye&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Computers as theatre. Brenda Laurel&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Modern Operating Systems. Stuart Tanenbaum&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Computer networks. Stuart Tanenbaum&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Oryx and crake. Margaret Atwood&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> The Dragon Book. Compilers: Principles, Techniques, and Tools&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> The Machine Stops. E. M.Forster&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> The Evolution of Cooperation. Robert Axelrod&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> The Historian&amp;rsquo;s Craft. Marc Bloch&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> How to read and why. Harold Bloom&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Paradise Lost. John Milton&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> UNIX: A History and a Memoir. Brian W Kernighan&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Modern Control Engineering. Katsuhiko Ogata&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> The structure of scientific revolutions. Thomas kuhn&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Flow My Tears, the Policeman Said. Philip K. Dick&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Smoke Gets in Your Eyes: And Other Lessons From the Crematorium. Caitlin Doughty&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Invitation To Contemporary Physics&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Seeing voices. Oliver sacks&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> A river runs through it. Norman Maclean&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> The Joke. Milan Kundera&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Havel: A Life. Michael Zantovsky&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Do androids dream of electric sheep. Philip K. Dick&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Midnight in the Garden of Good and Evil. John Berendt&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> A Billion Wicked Thoughts. Ogi Ogas, Sai Gaddam&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Einstein in Kafkaland. Ken Krimstein&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Dusk of Dawn. W.E.B. Du Bois&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Mind Over Mood. Dennis Greenberger and Christine A. Padesky&lt;/li>
-&lt;/ul>
-&lt;h3 id="honorable-mention">Honorable mention&lt;/h3>
-&lt;p>don&amp;rsquo;t quite made the cut but worth to keep an eye on if I change my mind:&lt;/p></description></item><item><title/><link>https://jsduenass.github.io/posts/library/opinion-pieces/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jsduenass.github.io/posts/library/opinion-pieces/</guid><description>&lt;h2 id="spare-parts-by--joshua-davis">Spare parts by Joshua Davis&lt;/h2>
-&lt;p>I found their underdog story raising to accomplish great prowess in engineering inspiring. I could not help but compare their experiences across the different stages in their life journey and my own as it relates to robotics. I was drawn to finally read the book by the increase hostility I have seen in the public discussion about undocumented immigrants/ illegal aliens (how the semantics affect the sympathy we feel towards them). I am not sure if it is refreshing to know that the current turn for the worse, is not necessarily a new unprecedented phenomenon but the resurface of long-standing resentment towards “The other”. Knowing that the stigma existed as well 20 years ago gives some perspective not to be caught by the doom of present moment and work towards flipping the direction of the tide. A nitpick that sometimes bothered me was the way the story was mediated by the author, as I felt that some of his preconceive notions creep in, and in order to construct a narrative he typecast the participants in constrain roles that hinder the ability to hear their stories through the voices.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Library on Sebastian D 🇨🇴</title><link>https://jsduenass.github.io/posts/library/</link><description>Recent content in Library on Sebastian D 🇨🇴</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 27 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jsduenass.github.io/posts/library/index.xml" rel="self" type="application/rss+xml"/><item><title>Of interest</title><link>https://jsduenass.github.io/posts/library/ofinterest/</link><pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate><guid>https://jsduenass.github.io/posts/library/ofinterest/</guid><description>&lt;p&gt;Because I seem to be pretty fond on lists, here are some more, of interesting institutions universities and people doing amazing work.&lt;/p&gt;
+&lt;h1 id="universities"&gt;Universities&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;ETH Zürich.
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/ethz-asl" target="_blank" rel="noopener"&gt;Autonomous Systems Lab&lt;/a&gt;, Roland Siegwart&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/leggedrobotics" target="_blank" rel="noopener"&gt;robotics system lab&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;DelftTU. &lt;a href="https://delftswa.gitbooks.io/desosa2016/content/" target="_blank" rel="noopener"&gt;Software architecture&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/tudelft" target="_blank" rel="noopener"&gt;https://github.com/tudelft&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;delftswa.github.io&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Caltech&lt;/li&gt;
+&lt;li&gt;MIT&lt;/li&gt;
+&lt;li&gt;UC Berkeley&lt;/li&gt;
+&lt;li&gt;Stanford&lt;/li&gt;
+&lt;li&gt;UPV (universidad politecnica de Valencia)&lt;/li&gt;
+&lt;li&gt;URJC universidad rey juan carlos&lt;/li&gt;
+&lt;li&gt;Universidad carlos iii madrid UC3M&lt;/li&gt;
+&lt;li&gt;Stuttgart university, engineering cybernetics. Master of Science (MSc) focused in Mechatronics, Robotics, and Automation Engineering from University of Stuttgar.&lt;/li&gt;
+&lt;li&gt;Twente university. Sid Sijbrandij gitlab, &lt;a href="https://www.youtube.com/channel/UCAB2bLpeVElJN2jDyF14zsQ" target="_blank" rel="noopener"&gt;roboteam&lt;/a&gt;, &lt;a href="https://www.youtube.com/watch?v=TvSTCM7SjGs" target="_blank" rel="noopener"&gt;Student report&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Eindhoven TU/e paises bajos, &lt;a href="https://github.com/tue-robotics/" target="_blank" rel="noopener"&gt;github&lt;/a&gt; &lt;a href="https://www.techunited.nl/en/" target="_blank" rel="noopener"&gt;Tech United Eindhoven&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Politecnico de lausanne&lt;/li&gt;
+&lt;li&gt;FH Aachen&lt;/li&gt;
+&lt;li&gt;TU München Munich&lt;/li&gt;
+&lt;li&gt;TU Berlin&lt;/li&gt;
+&lt;li&gt;TU Dresden&lt;/li&gt;
+&lt;li&gt;Czech Technical University in Prague&lt;/li&gt;
+&lt;li&gt;TU ilmenau.Technical Cybernetics and Systems Theory&lt;/li&gt;
+&lt;li&gt;University of Waterloo&lt;/li&gt;
+&lt;li&gt;university of Alberta&lt;/li&gt;
+&lt;li&gt;Hong Kong Polytechnic University&lt;/li&gt;
+&lt;li&gt;university of washington seattle&lt;/li&gt;
+&lt;li&gt;West Virginia University&lt;/li&gt;
+&lt;li&gt;TU Braunschweig &lt;a href="https://www.youtube.com/watch?v=V5vpwVFMPqs" target="_blank" rel="noopener"&gt;Robot Swarms&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;TU Kaiserslautern&lt;/li&gt;
+&lt;li&gt;University of Nothinham. numberphile&lt;/li&gt;
+&lt;li&gt;IIT Gandhinagar&lt;/li&gt;
+&lt;li&gt;Fachhochschule Wedel University of Applied Sciences&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="people"&gt;People&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Paul Graham. YCombinator&lt;/li&gt;
+&lt;li&gt;Lex Fridman&lt;/li&gt;
+&lt;li&gt;Keenan Wyrobek. zipline&lt;/li&gt;
+&lt;li&gt;Sid Sijbrandij. gitlab&lt;/li&gt;
+&lt;li&gt;Raffaello d&amp;rsquo;andrea. Drones&lt;/li&gt;
+&lt;li&gt;Robert Playter. Boston Dynamics&lt;/li&gt;
+&lt;li&gt;Lorenz Meier. Auterion drone company&lt;/li&gt;
+&lt;li&gt;Peter Corke. robotics toolbox&lt;/li&gt;
+&lt;li&gt;Stephen Wolfram&lt;/li&gt;
+&lt;li&gt;Professor Jeff Hoffman. &lt;a href="https://www.youtube.com/watch?v=bvxqCAkjDxs" target="_blank" rel="noopener"&gt;Introduction to aerospace engineerign: Astronautics and Human Spaceflight&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Randy Pausch. Alice python &lt;a href="https://archive.org/details/GabrielRobins-50YearsOfComputerScienceInnovationByRandyPausch812" target="_blank" rel="noopener"&gt;lecture&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Don Norman. Father of UX&lt;/li&gt;
+&lt;li&gt;Rich Harris. svelte&amp;rsquo;s creator&lt;/li&gt;
+&lt;li&gt;Dario Floreano. Bio inspired robots&lt;/li&gt;
+&lt;li&gt;Eric Tsui. knowledge management&lt;/li&gt;
+&lt;li&gt;Cleve Moler. Mathworks creator&lt;/li&gt;
+&lt;li&gt;Fabian Riether and Sertac Karaman &lt;a href="https://github.com/Parrot-Developers/RollingSpiderEdu" target="_blank" rel="noopener"&gt;minidrone MATLAB&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Jaron Lanier &lt;a href="https://youtu.be/rGqiswuJuQI" target="_blank" rel="noopener"&gt;Who is civilization for&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Arie van Deursen. software arquitecture DelftTU&lt;/li&gt;
+&lt;li&gt;Rodney Brooks. director of MIT&amp;rsquo;s Computer Science and Artificial Intelligence Laboratory&lt;/li&gt;
+&lt;li&gt;Aníbal Ollero. Aerial core consorsium&lt;/li&gt;
+&lt;li&gt;Kimberly McGuire and Ramón Roche. Aerial ROS&lt;/li&gt;
+&lt;li&gt;Ali Agha. Principal Investigator and Research Technologist at NASA&amp;rsquo;s JPL and Caltech’s Center for Autonomous Systems and Technologies (CAST)&lt;/li&gt;
+&lt;li&gt;Michael Nielsen. Quatum computing&lt;/li&gt;
+&lt;li&gt;Vadim Pisarevsky. openCV developer&lt;/li&gt;
+&lt;li&gt;Homayoon Kazerooni. robotics UC berkeley&lt;/li&gt;
+&lt;li&gt;Carlos Galeano. NASA&lt;/li&gt;
+&lt;li&gt;J. Edward Colgate. haptics&lt;/li&gt;
+&lt;li&gt;John Kenneth Salisbury. robotics haptics&lt;/li&gt;
+&lt;li&gt;Brendan Schulman&lt;/li&gt;
+&lt;li&gt;Federico Faggin. synaptics&lt;/li&gt;
+&lt;li&gt;Victoria Lemieux. Electronic Document &amp;amp; Records Management System Implementation&lt;/li&gt;
+&lt;li&gt;Gen Sasaki. Mathworks&lt;/li&gt;
+&lt;li&gt;Roger D. Launius. chief historian NASA&lt;/li&gt;
+&lt;li&gt;John Carmack. Best programmer (allegedly)&lt;/li&gt;
+&lt;li&gt;Sergei Lupashin&lt;/li&gt;
+&lt;li&gt;Adrian Bowyer. RepRap&lt;/li&gt;
+&lt;li&gt;Peo Hansen. Migration&lt;/li&gt;
+&lt;li&gt;Rob Cohee. Product Manager Fusion360&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="institutions"&gt;Institutions&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;DLR institute of robotics and mechatronics&lt;/li&gt;
+&lt;li&gt;Bell Labs&lt;/li&gt;
+&lt;li&gt;NASA JPL&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="companies"&gt;Companies&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Boston Dynamics&lt;/li&gt;
+&lt;li&gt;Zipline&lt;/li&gt;
+&lt;li&gt;Anybotics&lt;/li&gt;
+&lt;li&gt;Auterion&lt;/li&gt;
+&lt;li&gt;Framework&lt;/li&gt;
+&lt;li&gt;Ocado&lt;/li&gt;
+&lt;li&gt;Gitlab&lt;/li&gt;
+&lt;li&gt;Intrinsic&lt;/li&gt;
+&lt;li&gt;Amazon robotics&lt;/li&gt;
+&lt;li&gt;DJI&lt;/li&gt;
+&lt;li&gt;Formlabs&lt;/li&gt;
+&lt;li&gt;Markforged&lt;/li&gt;
+&lt;li&gt;Prusa&lt;/li&gt;
+&lt;li&gt;Onshape&lt;/li&gt;
+&lt;li&gt;Universal robots&lt;/li&gt;
+&lt;li&gt;Wing&lt;/li&gt;
+&lt;li&gt;JLCPCB&lt;/li&gt;
+&lt;li&gt;Mathworks&lt;/li&gt;
+&lt;li&gt;kiwibot&lt;/li&gt;
+&lt;li&gt;Esri&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Quotebook</title><link>https://jsduenass.github.io/posts/library/quotebook/</link><pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate><guid>https://jsduenass.github.io/posts/library/quotebook/</guid><description>&lt;p&gt;This is a collection of quotes I found interesting in one way or another.&lt;/p&gt;
+&lt;h2 id="literature"&gt;Literature&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The fact we live at the bottom of a deep gravity well, on the surface of a gas covered planet going around a nuclear fireball 90 million miles away and think this to be normal is obviously some indication of how skewed our perspective tends to be.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&amp;mdash; Douglas Adams&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Así también un orbe entero, con toda su pequeñez y su grandeza, puede ubicarse en una estrella que titila en la inmensidad del espacio, y así como la mera ciencia humana es capaz de dividir un rayo de luz y analizar su composición, así tambien otras inteligencias más excelsas podrán leer acaso en el tenue brillar de esta tierra nuestra todo pensamiento y toda acción, todo vicio y toda virtud de cada uno de los seres responsables que la pueblan.&lt;/p&gt;</description></item><item><title>WatchList</title><link>https://jsduenass.github.io/posts/library/watchlist/</link><pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate><guid>https://jsduenass.github.io/posts/library/watchlist/</guid><description>&lt;p&gt;This contains list of: Movies worth watching, books that have shape me in one way or another and those I have yet to read and one day I would get to reading them.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;There is never enough time to do everything but there is always enough time to do the most important things&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id="reading-list"&gt;Reading list&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;input disabled="" type="checkbox"&gt; Letters to a young scientist. Edward Osborne Wilson&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;input disabled="" type="checkbox"&gt; &lt;a href="https://quantum.country/" target="_blank" rel="noopener"&gt;Quantum country&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;input disabled="" type="checkbox"&gt; The man in the high castle. Philip K. Dick&lt;/p&gt;</description></item><item><title/><link>https://jsduenass.github.io/posts/library/opinion-pieces/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jsduenass.github.io/posts/library/opinion-pieces/</guid><description>&lt;h2 id="spare-parts-by--joshua-davis"&gt;Spare parts by Joshua Davis&lt;/h2&gt;
+&lt;p&gt;I found their underdog story raising to accomplish great prowess in engineering inspiring. I could not help but compare their experiences across the different stages in their life journey and my own as it relates to robotics. I was drawn to finally read the book by the increase hostility I have seen in the public discussion about undocumented immigrants/ illegal aliens (how the semantics affect the sympathy we feel towards them). I am not sure if it is refreshing to know that the current turn for the worse, is not necessarily a new unprecedented phenomenon but the resurface of long-standing resentment towards “The other”. Knowing that the stigma existed as well 20 years ago gives some perspective not to be caught by the doom of present moment and work towards flipping the direction of the tide. A nitpick that sometimes bothered me was the way the story was mediated by the author, as I felt that some of his preconceive notions creep in, and in order to construct a narrative he typecast the participants in constrain roles that hinder the ability to hear their stories through the voices.&lt;/p&gt;</description></item></channel></rss>
