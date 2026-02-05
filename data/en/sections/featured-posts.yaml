@@ -8,5 +8,7 @@ section:
 
 # posts to feature
 posts:
-  - markdown-sample
-  - shortcodes
+  - quotebook
+  - pycon2023
+  - watchlist
+  - meta

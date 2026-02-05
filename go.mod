@@ -1,8 +1,9 @@
 module github.com/jsduenass/jsduenass.github.io.git
 
-go 1.21
+go 1.25
 
-require github.com/hugo-toha/toha/v4 v4.8.0 // indirect
+
+require github.com/hugo-toha/toha/v4 v4.13.1-0.20260114145901-84093514293e // indirect
 
 // replace(
 //     github.com/hugo-toha/toha/v4 => ../toha

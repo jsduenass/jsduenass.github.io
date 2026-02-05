@@ -59,16 +59,20 @@ Because I seem to be pretty fond on lists, here are some more, of interesting in
 - Robert Playter. Boston Dynamics
 - Lorenz Meier. Auterion drone company
 - Peter Corke. robotics toolbox
+- Stephen Wolfram
 - Professor Jeff Hoffman. [Introduction to aerospace engineerign: Astronautics and Human Spaceflight](https://www.youtube.com/watch?v=bvxqCAkjDxs)
 - Randy Pausch. Alice python  [lecture](https://archive.org/details/GabrielRobins-50YearsOfComputerScienceInnovationByRandyPausch812)
+- Don Norman. Father of UX
 - Rich Harris. svelte's creator
 - Dario Floreano. Bio inspired robots
 - Eric Tsui. knowledge management
-- Stephen Wolfram
+- Cleve Moler. Mathworks creator
 - Fabian Riether and Sertac Karaman [minidrone MATLAB](https://github.com/Parrot-Developers/RollingSpiderEdu)
 - Jaron Lanier  [Who is civilization for](https://youtu.be/rGqiswuJuQI)
 - Arie van Deursen. software arquitecture DelftTU  
-- Rodney Brooks. directorof MIT's Computer Science and Artificial Intelligence Laboratory
+- Rodney Brooks. director of MIT's Computer Science and Artificial Intelligence Laboratory
+- Aníbal Ollero. Aerial core consorsium
+- Kimberly McGuire and Ramón Roche. Aerial ROS
 - Ali Agha. Principal Investigator and Research Technologist at NASA's JPL and Caltech’s Center for Autonomous Systems and Technologies (CAST)
 - Michael Nielsen. Quatum computing
 - Vadim Pisarevsky. openCV developer
@@ -79,11 +83,9 @@ Because I seem to be pretty fond on lists, here are some more, of interesting in
 - Brendan Schulman
 - Federico Faggin. synaptics
 - Victoria Lemieux. Electronic Document & Records Management System Implementation
-- Cleve Moler. Mathworks creator
 - Gen Sasaki. Mathworks
 - Roger D. Launius. chief historian NASA
 - John Carmack. Best programmer (allegedly)
-- Don Norman. Father of UX
 - Sergei Lupashin
 - Adrian Bowyer. RepRap
 - Peo Hansen. Migration

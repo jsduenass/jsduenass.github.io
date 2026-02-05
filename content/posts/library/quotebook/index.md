@@ -254,7 +254,7 @@ To castle and back is a boring book. We got warned about it from the start. One 
 >
 > __--- Vaclav Havel, To the castle and back__
 
-This whimsical quote could be easily pass as a gag,  except it is repeated several times, it may be used as a metaphor or symbol for the strange situations of political life
+This whimsical quote could be easily pass as a gag,  except it is repeated several times, it may be used as a metaphor or symbol for the strange situations of political life. It speaks of temporary solutions without facing the underlying problem, the hidden skelletons inside the closet and turning off the lights seems like glossing over unadress issues.
 
 > Then Gorbachev arrived, accompanied by an aide. He smiled at us pleasantly and asked us to sit down. He was evidently curious to know what a dissident looked like. Until that moment he had never seen a live one
 >
