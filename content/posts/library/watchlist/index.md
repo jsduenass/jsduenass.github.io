@@ -321,6 +321,9 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [ ] Gangs of new york
 - [ ] Un poeta
 - [ ] Perfect days
+- [ ] Into the wild
+- [ ] The life of walter mitty
+- [ ] The way
 
 ## Series
 

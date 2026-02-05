@@ -911,10 +911,10 @@ My favorite is rule 10 as it gives you the grace, that even while "knowing" all 
 >
 > let me start
 >
-> by wishing you a hapy birthday
+> by wishing you a happy birthday
 >
 >
-> we've choosen a day
+> we've chosen a day
 >
 > the day you were born
 > 
@@ -936,9 +936,11 @@ My favorite is rule 10 as it gives you the grace, that even while "knowing" all 
 >
 > and know what to say
 >
-> but above all
+> but above of it all
 >
-> you know euler's number to the x place
+> you know euler's number
+>
+> to the x decimal place
 >
 > and somehow it relates
 >
@@ -947,7 +949,7 @@ My favorite is rule 10 as it gives you the grace, that even while "knowing" all 
 >
 > I want to say thank you
 >
-> for every moment we share
+> for the moments we share
 >
 > wish you the best
 >
