@@ -56,15 +56,5 @@ degrees:
     - name:  Git and Github
     - name: Software Engineer Fundamentals
     
-- name: Higher Secondary School Certificate
-  icon: fa-university
-  timeframe: Jan - July 2016
-  institution:
-    name: Hillcrest High School 
-    url: "#"
-- name: Secondary School Certificate
-  icon: fa-school
-  timeframe: 2009-2015
-  institution:
-    name: Colegio los Angeles
+
  

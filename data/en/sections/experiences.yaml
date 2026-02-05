@@ -9,11 +9,57 @@ section:
   # hideTitle: true 
 
 # Your experiences
+
 experiences:
+- company:
+    name: Fly4Future.
+    url: "https://fly4future.com/"
+    location: Prague, Czech Republic
+    # company overview
+    overview: R&D company focused on the development of custom drone solutions in the intersection between university, research groups and industrial applications.
+  positions:
+  - designation: Hardware Engineer
+    start: Feb 2025
+    end: on going
+    responsibilities:
+    - Work on project orientated development of custom drone solutions contributing on the mechanical design and prototyping, CAD modeling, integration of components and delivery of complete drones.
+
+- company:
+    name: kiwibot
+    url: "https://www.robot.com"
+    location: Remote
+    # company overview
+    overview: Joined a Colombian startup working revolutionizing the last mile delivery industry with autonomous robots.  
+  positions:
+  - designation: Service Desk Engineer
+    start: Feb 2024
+    end: Dec 2024 
+    responsibilities:
+    - Incident Management and Response; Provide first-line investigation and diagnosis of all incidents and service requests.
+    - Technical Support and Troubleshooting; Resolve technical issues related to the robot delivery system, software applications, and IT infrastructure.
+    - System Monitoring and Maintenance; Monitor IT systems and applications for issues that could impact service quality or uptime.
+    - Quality and Continuous Improvement; Contribute to the continuous improvement of the IT service by providing feedback on recurring issues and suggesting enhancements.
+  - designation: JR Maintenance Engineer
+    start: Jul 2023
+    end: Dec 2023 
+    responsibilities:
+    - During this role I assumed responsibility for overseeing the smooth operation of a fleet of 15 delivery robots, executing the thorough inspection, diagnostics, troubleshooting and performing the necessary repairs. I successfully maintained the robots in optimal working condition, applying my skills in electronic diagram analysis and proficiently troubleshooting and repairing electronic boards within the mechatronic system.
+- company:
+    name: CETIA Colombian Air Force
+    url: "https://poderespacial.fac.mil.co/es/centro-de-investigacion-en-tecnologias-aeroespaciales"
+    location: Madrid, Colombia
+    # company overview
+    overview: CETIA Aeronautical Innovation Technology Center, is one of the four Research Centers of the Directorate of Science, Technology and Innovation, Aeronautical and Space Education Department (JEAES) from the Colombian Air Force. CETIA is responsible for the development of research and innovation projects in the field of aeronautical and space technologies, with a focus on the design, construction and operation of remotely piloted aircraft. 
+  positions:
+  - designation: Engineering Intern
+    start: Apr 2022
+    end: Aug 2022
+    responsibilities:
+    - Student internship focused on the development and research in the design and construction of remotely piloted aircraft. Development of a drone’s obstacle avoidance system were commands were controlled by a microcontroller and decision taken based on signal feed from single beam lidar sensors.
 - company:
     name: Colombian National University.
     #url: "https://www.example.com"
-    location: Bogotá
+    location: Bogota, Colombia
     # company overview
     overview: While coursing my studies I engaged with the university in activities working as  
   positions:

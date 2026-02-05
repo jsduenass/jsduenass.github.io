@@ -4,10 +4,10 @@ date: 2023-06-11
 description: PyCon Colombia lightning talk  
 menu:
   sidebar:
-    name: "PyCon "
-    identifier: pycon_2023
+    name: "PyCon"
+    identifier: pycon2023
     parent: programming
-    weight: 2
+    weight: 24
 ---
 
 

@@ -22,7 +22,7 @@ This contains list of: Movies worth watching, books that have shape me in one wa
 - [ ] Masters of Doom. David Kushner
 - [ ] Bloc by Bloc: How to Organize a Global Enterprise for the New Regional Order.  Steven Weber
 - [ ] [The MIT Rad Lab Series](http://web.mit.edu/klund/www/books/radlab.html).
-- [ ] [China 2185. liu cixin](https://dlf.uzh.ch/sites/sinofutures/2019/12/02/122/) [internet version](http://www.kehuan.net.cn/book/2185.html)
+
 - [ ] [Baumgartner & Momsen Detective Stories for German Learners](https://books.learnoutlive.com/learning-german-storytelling-baumgartner-momsen-detective-stories-german-learners-collectors-edition-1-5/?edition=ebook)
 - [ ] El límite de las mentiras: La polémica vida del Perito Francisco Pascasio Moreno 1852-1919. Gerardo Bartolomé
 - [ ] Historia social del conocimiento. Peter Burke
@@ -34,7 +34,6 @@ This contains list of: Movies worth watching, books that have shape me in one wa
 - [ ] The road to reality. Roger Penrose
 - [ ] The Feynman Lectures on Physics
 - [ ] This is how they tell me the world ends. Nicole Perlroth
-- [ ] Self-Reliance. Ralph Waldo Emerson
 - [ ] Where wizards stay up late. Katie Hafner
 - [ ] Hard drive bill gates and the making of the microsoft empire
 - [ ] Pale Blue Dot. Carl Sagan
@@ -81,6 +80,7 @@ This contains list of: Movies worth watching, books that have shape me in one wa
 - [ ] Einstein in Kafkaland. Ken Krimstein
 - [ ] Dusk of Dawn. W.E.B. Du Bois
 - [ ] Mind Over Mood. Dennis Greenberger and Christine A. Padesky
+- [ ] Snow Crash. Neal Stephenson
 
 ### Honorable mention
 
@@ -156,7 +156,8 @@ don't quite made the cut but worth to keep an eye on if I change my mind:
 - [ ] The art of slow living. Samar Cajal
 - [ ] Svědectví o životě v KLDR (Testimony of life in North Korea). Nina Špitalková
 - [ ] The Printing Press as an Agent of Change. Elizabeth L. Eisenstein
-
+- [ ] Open Letters. Vaclav Havel.
+ 
 
 Prehistoria de la Ciencia Ficción. de Laguna Libros
 
@@ -261,7 +262,7 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [x] El idiota. Fyodor Dostoyevsky
 - [x] We. Yevgueni Zamiatin
 
-### Bought but not read yet
+### Bought but not read, yet
 
 - [ ] Emilio o de la educación. Rousseau.
 - [ ] The Design of Everyday Things. Donald Norman
@@ -274,6 +275,7 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [ ] Robotics vision and control. Peter Corke
 - [ ] Introduction to autonomous mobile robots. Reza Nourbakhsh ans Roland Siegwart
 - [ ] New Kind of Science. Stephen Wolfram
+- [ ] [China 2185. liu cixin](https://dlf.uzh.ch/sites/sinofutures/2019/12/02/122/) [internet version](http://www.kehuan.net.cn/book/2185.html). Hopefully one day it'll have a official printed translation.
 
 #### Essays, papers and blogs
 
@@ -284,6 +286,7 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [ ]  Boing Boing blog. Cory doctorow
 - [ ]  [A blind writers notebook](https://catapult.co/editorial/topics/a-blind-writer-s-notebook/stories). leona godin
 - [ ] Attention Is All You Need. Ashish Vaswani
+- [ ] Self-Reliance. Ralph Waldo Emerson
 
 ## Movies
 
