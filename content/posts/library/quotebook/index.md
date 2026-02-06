@@ -248,8 +248,6 @@ Sherlock Holmes strikes as a very modern and relatable character, his life in so
 >
 >__---Héctor Abad Faciolince, El olvido que seremos__
 
-To castle and back is a boring book. We got warned about it from the start. One can only imagine the book has succeeded, if removing the glamour of being the head of state (of Czechoslovakia and then the Czech republic) was its goal. One gets the impression that the job is and endless treadmill of writing speeches, peppered here and there with responsibilities on preparing events/dinners for foreign diplomats and the ocasional political squabble. And yet it also let's through some of Vaclav personality and his inability to scape it all. As he only knows one way of acting, and this is to apease his always torturing conscience. Dissuade the right people of pursuing office this cannot. As just as Vaclav they will be compelled to obligue. In order to scape the hardest torture ... acting against one's own beliefs.
-
 > In the closet where the vacuum cleaner is kept, there also lives a bat. How to get rid of it? The lightbulb has been unscrewed so as not to wake it up and upset it.
 >
 > __--- Vaclav Havel, To the castle and back__
@@ -295,24 +293,23 @@ For me the highest Court has some religious overtones.
 
 This sentence showcases complex psychology of the characters and the conflicted relationship between mother and daughter.
 
-> "Early on, when I told people about the Destiny, and most of them laughed, I was afraid. I worried that I couldn't do this, couldn't reach people and help them see truth. Later, when the people of Acorn began to accept all the Eathseed teachings except the Destiny, I worried more. People seem to be willing to believe all kinds of stupid things - magic, the supernatural, witchcraft ... But I couldn't get them to believe in something real, something that they could make real with their own hands. Now .. now most of the people here accept the Destiny. They believe me and follow me, and damned if I don't worry even more" 
-> 
-> "You never said so" Bankole reached out and took my hands between his. 
+> "Early on, when I told people about the Destiny, and most of them laughed, I was afraid. I worried that I couldn't do this, couldn't reach people and help them see truth. Later, when the people of Acorn began to accept all the Eathseed teachings except the Destiny, I worried more. People seem to be willing to believe all kinds of stupid things - magic, the supernatural, witchcraft ... But I couldn't get them to believe in something real, something that they could make real with their own hands. Now ... now most of the people here accept the Destiny. They believe me and follow me, and damned if I don't worry even more"
 >
-> "What could I say? That I believe in Earthseed, yet I doubt my own abilities? that I 'm afraid all the time?" I sighed. "That's where faith comes in, I guess. It always comes sooner or later into every belief system. In this case it's have faith and work your ass off. Have faith and work the asses off a hell of a lot of people. I realize all that but I'm still afraid" ...
+> "You never said so" Bankole reached out and took my hands between his.
+>
+> "What could I say? That I believe in Earthseed, yet I doubt my own abilities? that I'm afraid all the time?" I sighed. "That's where faith comes in, I guess. It always comes sooner or later into every belief system. In this case it's have faith and work your ass off. Have faith and work the asses off a hell of a lot of people. I realize all that but I'm still afraid" ...
 >
 > I suspect that logic isn't involved in trying to found a new religion and then having doubts about it either".
 >
-> "my doubts are personal", I said. "You know that  I doubt myself not Earthseed. I worry that I might not be able to make Earthseed anything more than another little cult". 
+> "my doubts are personal", I said. "You know that I doubt myself not Earthseed. I worry that I might not be able to make Earthseed anything more than another little cult".
 >
 > __---  Octavia E. Butler, The parable of the talents. Page 178__
 
-> That is why the Destiny of Earthseed is to take root among the starts. ...
+> That is why the Destiny of Earthseed is to take root among the starts.
 >
 > __---  Octavia E. Butler, The parable of the talents__
 
-
-have a vision and have doubts the way Olamina have them. 
+Having doubts about a vision or goals you are pursuing is normal, if no inevitable. But to have doubts the way Olamina has them sounds the most aspirational. She has no doubts about the worthiness of the goal, she doubts if she is up to the task. It looks so ambitious that posible reach of our actions look minuscule in comparison and yet persist because there is no other way. This mentality is powerful as strong convictions makes you push through hard times, but this single mindedness can turn dangerous when you are not self critical on it.
 
 > yet shorsighted is exactly what she was. She sacrificed us for an idea. And if she didn't know what she was doing she should have known .. if her good days were to be in the future on some extrasolar world, that only made them more pathetically unreal.
 >
@@ -321,10 +318,11 @@ have a vision and have doubts the way Olamina have them.
 > " You will forgive me for ruining the surprise", he said, "by telling you that this is a book, my darling. A magic book. I made it for you, because I love you and could not think of a better way to express that love. And whenever you open its pages, no matter how far away I might be, you will find me here."
 >
 > __--- Neal Stephenson, The diamond age__
+
 > Sages, seers, and theoretical physicists could only speculate at what, if any, relationship might exist between the Shangahai Police Department's astonishing scope of activities and actual law enforcement.
 > __--- Neal Stephenson, The diamond age__
-Whimsical way of showcasing corruption and overreach of power.
 
+Whimsical way of showcasing corruption and overreach of power.
 
 > In order to raise a generation of children who can reach their full potential, we must find a way to make their lives interesting.And the question I have for you, Mr. Hackworth, is this: Do you think that our schools accomplish that?
 >
@@ -424,7 +422,7 @@ This quote captures the problem of making code accesible and understandable, a p
 
 > La refactorización es el comportamiento por defecto de una persona novata
 >
-> Freddy Vega
+> __--- Freddy Vega__
 
 > Unix philosophy, with three major tenets: 'write programs that do one thing and do it well'. 'write programs that work together'. 'write programs that handle text streams because that is a universal interface'
 >
@@ -682,7 +680,7 @@ it is fascinating to see how an indicator of economic prosperity has shifted fro
 >
 > __--- [Louie](https://youtu.be/V_eCrIO0ECw?si=bgER9w0DkXYK-JCE)__
 
-> we can move on and welcome others into our lives as a priority.
+> We can move on and welcome others into our lives as a priority.
 >
 > __--- Renee__
 
@@ -694,15 +692,25 @@ it is fascinating to see how an indicator of economic prosperity has shifted fro
 
 > The world is a fascinating place, but we only get to live inside the boundary of what we know, therefore I justify my existence by expanding this horizon and being amazed and amused by all what there is out there.
 >
->__me__
+>__--- me__
 
 > [Meaning is a jumper that you have to knit yourself](https://youtu.be/psaCM1j9LEM)
 
-> Lo que necesito es una compensación; de lo contrario, desaparece. Y no una compensación en cualquier parte, en el infinito, sino aquí abajo, una compensación que yo pueda ver. Yo he creído, y quiero ser testigo del resultado, y si entonces ya he muerto, que me resuciten.
-> Seria muy triste que todo ocurriese sin que yo lo percibiera. No quiero que mi cuerpo, con sus sufrimientos y sus faltas, sirva tan solo para contribuir a la armonía futura en beneficio de no se quien. Quiero ver con mis propios ojos a la cierva durmiendo junto al león, a la victima besando a su matador. Sobre este deseo reposan todas las religiones y yo tengo fe.
-> Quiero estar presente cuando todos se enteren del porque de las cosas.
+> du wirst immer das zentrum deines eigenen kleinen univerzum sein
 >
->__--- Fiodor Dostoievski, Los hermanos Kramazov - Rebeldia__
+> __--- Kurzgesagt, [Du bist nicht da, wo du denkst](https://youtu.be/0unvBW91wY0)__
+
+> As far as we can discern, the sole purpose of human existance is to kindle a light of meaning in a the darkness of mere being
+>
+> __---Carl Jung. Memories, dreams,  reflections__
+
+> El mundo te preguntará quién eres, y si no lo sabes, el mundo te lo dirá
+>
+> __---atributted to Carl Jung__
+
+> if you don't have a coherent story, if you don't know who you are, and are being vague or overly reclusive about yourself because of it, people will likely find it more difficult to connect with you
+>
+> __--- [Like Stories of Old](https://youtu.be/if5YMnNKcNw?t=171)__
 
 > La vida no es lo que uno vivió sino la que uno recuerda y cómo la recuerda para contarla.
 >
@@ -720,7 +728,7 @@ it is fascinating to see how an indicator of economic prosperity has shifted fro
 >
 > __--- Carl Sagan, el mundo y sus demonios__
 
->En una vida corta e incierta parece cruel hacer algo que pueda privar a la gente del consuelo de la fe cuando la ciencia no puede remediar su angustia.
+> En una vida corta e incierta parece cruel hacer algo que pueda privar a la gente del consuelo de la fe cuando la ciencia no puede remediar su angustia.
 >
 > __--- Carl Sagan, el mundo y sus demonios__
 
@@ -736,23 +744,22 @@ it is fascinating to see how an indicator of economic prosperity has shifted fro
 >
 >__--- Stanislaw Lem, Fiasco__
 
-> The fact that you are not happy has nothing to do with what you have or don't have. the fact that you are not happy is your  life doesn't match the way you think it should be. And you have some idea how you think it should be.
 
 > Un mundo le es dado al hombre; su gloria no es soportar o despreciar este mundo, sino enriquecerlo construyendo otros universos
 >
 > __--- Mario Bunge, La ciencia su método y su filosofía__
 
-> du wirst immer das zentrum deines eigenen kleinen univerzum sein
->
-> __--- Kurzgesagt, [Du bist nicht da, wo du denkst](https://youtu.be/0unvBW91wY0)__
 
 > One painful duty fulfilled makes the next plainer and easier
 >
 > __--- Hellen Keller, Story of my life__
 
-> Cada vez que decides dedicar una parte de tu tiempo a algo en concreto, estás dejando de lado todas las otras posibles manera de emplear ese tiempo.  Y realizar ese sacrificio de forma voluntaria es pronunciarse, sin reservas, sobre lo que es más importante para ti.
+
+> Or watch the things you gave your life to, broken,
 >
-> __--- Oliver Burkeman, cuatromil semanas Gestión del tiempo para mortales__
+> And stoop and build ’em up with worn-out tools:
+>
+> __--- [if, Rudyard Kipling](https://youtu.be/sqOgyNfHl1U)__
 
 [If Tomorrow Starts Without Me read by Tom O'Bedlam](hhttps://youtu.be/8YMJcIvpUlc)
 
@@ -760,17 +767,22 @@ it is fascinating to see how an indicator of economic prosperity has shifted fro
 
 [John Danaher at the Lex Fridman Podcast](https://www.youtube.com/watch?v=ktuw6Ow4sd0)
 
-The God of the gaps
 
-Eudaimonia
-
-### Time by Pink Floyd
-
-{{< youtube JwYX52BP2Sk >}}
+> Failure fragments personal security. Consistent failure replaces self-confidence. Absolute failure erases identity
+>
+> __--- Buzz Williams,Spare Parts__
 
 > I heard this story about a fish. He swims up to this older fish and says, “I'm trying to find this thing they call the ocean.” “The ocean?” says the older fish, “that's what you're in right now.” “This?” says the younger fish, “This is water. What I want is the ocean.”
 >
 > __Movie: Soul__
+
+### Hapliness
+
+> happiness is the progressive realisation of a worthy ideal
+
+Eudaimonia
+
+> The fact that you are not happy has nothing to do with what you have or don't have. the fact that you are not happy is your  life doesn't match the way you think it should be. And you have some idea how you think it should be.
 
 >“What you need,” the Savage went on, “is something with tears for a change. Nothing costs enough here.”
 >
@@ -792,31 +804,10 @@ Eudaimonia
 >
 > __--- Aldous Huxley, Brave New World__
 
-> No hay en esto certidumbre lógica. Tampoco hay probabilidad experimental todo lo que puedo decir es que, en efecto, sobrepasa mi medida si no dedusco de ello una negación, por lo menos no quiero fundamentar nada en lo incomprensible. Quiero saber si puedo vivir con lo que sé y con eso solamente. Me dicen también que la razón debe inclinarse. Pero si reconozco los límites de la razón no lo niego por lo mismo, pues reconozco sus poderes relativos.
->
-> __--- Albert Camus, El mito de Sísifo__
+### Time
 
-> Or watch the things you gave your life to, broken,
->
-> And stoop and build ’em up with worn-out tools:
->
-> __--- [if, Rudyard Kipling](https://youtu.be/sqOgyNfHl1U)__
-
-> God exists, if only in the form of a meme with high survival value, or infective power, in the enviroment provided by human culture
->
-> __--- Richard Dawkins, the selfish gene__
-
-Very provocative comment
-
-> if you don't have a coherent story, if you don't know who you are, and are being vague or overly reclusive about yourself because of it, people will likely find it more difficult to connect with you
->
-> __--- [Like Stories of Old](https://youtu.be/if5YMnNKcNw?t=171)__
-
-> Failure fragments personal security. Consistent failure replaces self-confidence. Absolute failure erases identity
->
-> __--- Buzz Williams,Spare Parts__
-
-> happiness is the progressive realisation of a worthy ideal
+{{< youtube JwYX52BP2Sk >}}
+Time by Pink Floyd
 
 > Time is perishable; it cannot be saved. Time is irrepalceable; nothing else will do. Time is irretrievable; once it is gone or wasted, you can never get it back. Finally, time is indispensable, especially for accomplishments of any kind, All achievment, all results, all succes requieres time.
 >
@@ -825,6 +816,30 @@ Very provocative comment
 > Your most important assests are your mental, emotional, physical energies
 >
 > __--- Brian Tracy, No excuses the power of self disipline__
+
+> Cada vez que decides dedicar una parte de tu tiempo a algo en concreto, estás dejando de lado todas las otras posibles manera de emplear ese tiempo.  Y realizar ese sacrificio de forma voluntaria es pronunciarse, sin reservas, sobre lo que es más importante para ti.
+>
+> __--- Oliver Burkeman, cuatromil semanas Gestión del tiempo para mortales__
+
+### GOD
+
+> Lo que necesito es una compensación; de lo contrario, desaparece. Y no una compensación en cualquier parte, en el infinito, sino aquí abajo, una compensación que yo pueda ver. Yo he creído, y quiero ser testigo del resultado, y si entonces ya he muerto, que me resuciten.
+> Seria muy triste que todo ocurriese sin que yo lo percibiera. No quiero que mi cuerpo, con sus sufrimientos y sus faltas, sirva tan solo para contribuir a la armonía futura en beneficio de no se quien. Quiero ver con mis propios ojos a la cierva durmiendo junto al león, a la victima besando a su matador. Sobre este deseo reposan todas las religiones y yo tengo fe.
+> Quiero estar presente cuando todos se enteren del porque de las cosas.
+>
+>__--- Fiodor Dostoievski, Los hermanos Kramazov - Rebeldia__
+
+> No hay en esto certidumbre lógica. Tampoco hay probabilidad experimental todo lo que puedo decir es que, en efecto, sobrepasa mi medida si no dedusco de ello una negación, por lo menos no quiero fundamentar nada en lo incomprensible. Quiero saber si puedo vivir con lo que sé y con eso solamente. Me dicen también que la razón debe inclinarse. Pero si reconozco los límites de la razón no lo niego por lo mismo, pues reconozco sus poderes relativos.
+>
+> __--- Albert Camus, El mito de Sísifo__
+
+The God of the gaps
+
+> God exists, if only in the form of a meme with high survival value, or infective power, in the enviroment provided by human culture
+>
+> __--- Richard Dawkins, the selfish gene__
+
+Very provocative comment
 
 ### Rules for Being Human
 
@@ -841,15 +856,8 @@ Very provocative comment
 
 >__--- Cherie Carter-Scott, If Life Is A Game__
 
-My favorite is rule 10 as it gives you the grace, that even while "knowing" all the rules you will still make mistakes. As you can't live all the time enlightened, and you eventually will fall back to bad habits catiching yourself frustrating and anoyed, struggling to gain peace of mind remembering how it is really like being a human.
+My favorite is rule 10 as it gives you the grace, that even while "knowing" all the rules you will still ~~make mistakes ~~ repeat lessons. As you can't live all the time enlightened, and you eventually will fall back to bad habits catiching yourself frustrated and anoyed, struggling to gain peace of mind remembering how it is really like being a human.
 
-> As far as we can discern, the sole purpose of human existance is to kindle a light of meaning in a the darkness of mere being
->
-> __---Carl Jung. Memories, dreams,  reflections__
-
-> El mundo te preguntará quién eres, y si no lo sabes, el mundo te lo dirá
->
-> __---atributted to Carl Jung__
 
 ## Miscellaneous
 

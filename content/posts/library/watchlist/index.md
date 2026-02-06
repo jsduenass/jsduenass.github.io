@@ -377,9 +377,14 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 ## Places
 
 - [ ] Schengen, China. Capital of electronics production
+- [ ] Pacific Crest Trail (PCT)
+- [ ] Taiwan
+- [ ] Singapore
 - [x] Zurich, switzerland
-- [] Volcan Licancabur
+- [x] Amsterdam, Netherlands
+- [ ] Volcan Licancabur
 - [x] Puerto Varas, Chile
 - [ ] Silfra, Iceland. Dive between the continents  Thingvellir National Park
 - [ ] Ushuaia Argentina
-- [ ]  Daryl’s House, Pawling, NY. [Music venue owned by Daryl Hall](https://youtu.be/4qHcRztwpAw?si=07gSZr358Se9CPj8)
+- [ ] Daryl’s House, Pawling, NY. [Music venue owned by Daryl Hall](https://youtu.be/4qHcRztwpAw?si=07gSZr358Se9CPj8)
+- [ ] Greece

@@ -7,7 +7,7 @@ menu:
     name: "of interest"
     identifier: ofInterest
     parent: library    
-    weight: 23
+    weight: 24
 ---
 
 Because I seem to be pretty fond on lists, here are some more, of interesting institutions universities and people doing amazing work.
