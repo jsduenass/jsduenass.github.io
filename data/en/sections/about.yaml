@@ -8,11 +8,11 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Mechatronic Engineer Student
+designation: Hardware Engineer 
 # your company information
 company:
-  name: Colombian National University
-  url: "https://unal.edu.co/"
+  name: Fly4Future
+  url: "https://fly4future.com/"
 
 # a summary about you
 summary: 'Mechatronics Engineer motivated to search innovative solutions and build products through the lens of Engineering and Optimization. Strong focus on hardware–software integration in robotics and UAVs, with experience in CAD modeling, design, sensor data processing and doing programing on the side.'
