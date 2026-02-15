@@ -10,7 +10,10 @@ menu:
     weight: 22
 
 ---
-This contains list of: Movies worth watching, books that have shape me in one way or another and those I have yet to read and one day I would get to reading them.
+
+In the current landscape, where the world overflows with abundance of content I am struggling with the question of where to focus my attention. When the the main constrain is time choosing what is worth spending your energy on is of most importance.
+
+This is a (on going) curated list to navigate this question.  Movies worth watching; books that have shape me in one way or another and those works I have yet to read and one day I would get down to reading them.
 
 > There is never enough time to do everything but there is always enough time to do the most important things
 
@@ -22,7 +25,6 @@ This contains list of: Movies worth watching, books that have shape me in one wa
 - [ ] Masters of Doom. David Kushner
 - [ ] Bloc by Bloc: How to Organize a Global Enterprise for the New Regional Order.  Steven Weber
 - [ ] [The MIT Rad Lab Series](http://web.mit.edu/klund/www/books/radlab.html).
-
 - [ ] [Baumgartner & Momsen Detective Stories for German Learners](https://books.learnoutlive.com/learning-german-storytelling-baumgartner-momsen-detective-stories-german-learners-collectors-edition-1-5/?edition=ebook)
 - [ ] El límite de las mentiras: La polémica vida del Perito Francisco Pascasio Moreno 1852-1919. Gerardo Bartolomé
 - [ ] Historia social del conocimiento. Peter Burke

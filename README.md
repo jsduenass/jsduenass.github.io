@@ -13,7 +13,22 @@ This project uses the toha theme submodule. So in order to use this repository i
 
 git clone --recursive [URL to Git repo]
 
-the following commands are used to  preview the website 
+the following commands are used to build and preview the website
+
+1. Load Hugo modules
+
+```
+hugo mod tidy
+```
+
+2. Install node modules
+
+``` 
+hugo mod npm pack
+npm install
+```
+3. Run the development server
+
 ```
 hugo server 
 hugo server -t toha -w

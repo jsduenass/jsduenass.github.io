@@ -29,7 +29,7 @@ De las anteriores dos citas se evidencia el conocimiento de astronomía que pose
 
 ### A pale blue dot
 
-{{< youtube EWPFmdAWRZ0 >}}
+{{< youtube 4x2KFllOFro >}}
 
 >From this distant vantage point, the Earth might not seem of any particular interest.
 >
@@ -458,13 +458,13 @@ This quote captures the problem of making code accesible and understandable, a p
 
 ## Startups
 
-> While an ideal time to begin a company handbook is at inception, the next best time is _today_.
->
->__--- [gitlab Handbook](https://about.gitlab.com/company/culture/all-remote/handbook-first-documentation/)__
+> it’s easy to start a company for the wrong reasons—usually so that you can say you’re starting a company—and this makes it easy to cloud your judgment.
+> __---Sam Altman__
 
-> People who've done great things tend to seem as if they were a race apart. And most biographies only exaggerate this illusion, partly due to the worshipful attitude biographers inevitably sink into, and partly because, knowing how the story ends, they can't help streamlining the plot till it seems like the subject's life was a matter of destiny, the mere unfolding of some innate genius.
->
-> __--- Paul Graham__
+{{< youtube ii1jcLg-eIQ >}}
+<!---
+{{< youtube R9ITLdmfdLI >}}
+--->
 
 > So here's the brief recipe for getting startup ideas. Find something that's missing in your own life, and supply that need—no matter how specific to you it seems. Steve Wozniak built himself a computer; who knew so many other people would want them? A need that's narrow but genuine is a better starting point than one that's broad but hypothetical.
 >
@@ -474,6 +474,18 @@ This quote captures the problem of making code accesible and understandable, a p
 >
 > __--- Antoine de Saint Exupéry__
 
+> When the drone delivery hype hit fever peak, one bit of nuance went overlooked. Consumers simply don´t care about how a package gets from b to c, so long as it’s quick, cost-efficient, and reliable. They’d opt for a new technology once for the novelty, but by the 100th time that wears off. Eventually rationality will return.
+>
+> __---Wendover productions [Drone Delivery Was Supposed to be the Future. What Went Wrong?](https://youtu.be/J-M98KLgaUU?si=P9Vzyhwra7EpJvsE)__
+
+> While an ideal time to begin a company handbook is at inception, the next best time is _today_.
+>
+>__--- [gitlab Handbook](https://about.gitlab.com/company/culture/all-remote/handbook-first-documentation/)__
+
+> People who've done great things tend to seem as if they were a race apart. And most biographies only exaggerate this illusion, partly due to the worshipful attitude biographers inevitably sink into, and partly because, knowing how the story ends, they can't help streamlining the plot till it seems like the subject's life was a matter of destiny, the mere unfolding of some innate genius.
+>
+> __--- Paul Graham__
+
 > I’ve had detailed conversations with many professors and it was apparent that most of them had themselves never applied concepts they were teaching. Their knowledge is restricted to the textbook and questions they have been asking for years in their exams.
 
 > Of a 168-hour week, 56 hours are typically spent sleeping and 40 hours earning money. That leaves 72 hours every week to watch cat videos on YouTube  -  this we call spare time.
@@ -482,17 +494,6 @@ This quote captures the problem of making code accesible and understandable, a p
 
 > you can filter all your team members into broad categories based on skillfulness, determination, focus, kindness+integrity
 
-> it’s easy to start a company for the wrong reasons—usually so that you can say you’re starting a company—and this makes it easy to cloud your judgment.
-> __---Sam Altman__
-
-{{< youtube ii1jcLg-eIQ >}}
-
-<!---
-{{< youtube R9ITLdmfdLI >}}
---->
-> When the drone delivery hype hit fever peak, one bit of nuance went overlooked. Consumers simply don´t care about how a package gets from b to c, so long as it’s quick, cost-efficient, and reliable. They’d opt for a new technology once for the novelty, but by the 100th time that wears off. Eventually rationality will return.
->
-> __---Wendover productions [Drone Delivery Was Supposed to be the Future. What Went Wrong?](https://youtu.be/J-M98KLgaUU?si=P9Vzyhwra7EpJvsE)__
 
 ## Education and learning
 
@@ -646,6 +647,26 @@ it is fascinating to see how an indicator of economic prosperity has shifted fro
 >
 > __---James Sexton, The Lex Fridman podcast__
 
+> Relationships don't have to be long to be meaningful — we can still learn and receive more from one person in four weeks than we might with someone else in four years.
+
+{{<youtube V_eCrIO0ECw>}}
+
+> Dr Bigelow: Don't you see this is the good part. This is what you have been digging for all this time. and now you finally have it in you hand. The sweet nugget of love. Sweet sad love. And you want to throw it away. you have it all wrong.
+> 
+> Loui I thought this was the bad part.
+>
+> Dr Bigelow: No the bad part is when you forget her. when you don't care about her when you don't care anything. The bad part is comming. So enjoy the heartbreak while you can. For god sakes.
+>
+> __--- [Louie](https://youtu.be/V_eCrIO0ECw?si=bgER9w0DkXYK-JCE)__
+
+> We can move on and welcome others into our lives as a priority.
+>
+> __--- Renee__
+
+[Lex Fridman Podcast | James Sexton: Divorce Lawyer](https://youtu.be/fUEjCXpOjPY?si=0tFp4l6P7_BDeCQc)
+
+[Lex Fridman Podcast | Aella](https://youtu.be/cFSrxSBrgSc?si=BypxvDYwct1HyzQM)
+
 ### you can't save those you love
 
 {{< youtube P3X4jALZG_w >}}
@@ -670,23 +691,6 @@ it is fascinating to see how an indicator of economic prosperity has shifted fro
 >
 > __Like Stories of Old__
 
-> Relationships don't have to be long to be meaningful — we can still learn and receive more from one person in four weeks than we might with someone else in four years.
-
-> Don't you see this is the good part. This is what you have been digging for all this time. and now you finally have it in you hand. The sweet nugget of love. Sweet sad love. And you want to throw it away. you have it all wrong.
-> 
->  I thought this was the bad part.
->
-> No the bad part is when you forget her. when you don't care about her when you don't care anything. The bad part is comming. So enjoy the heartbreak while you can. For god sakes. 
->
-> __--- [Louie](https://youtu.be/V_eCrIO0ECw?si=bgER9w0DkXYK-JCE)__
-
-> We can move on and welcome others into our lives as a priority.
->
-> __--- Renee__
-
-[Lex Fridman Podcast | James Sexton: Divorce Lawyer](https://youtu.be/fUEjCXpOjPY?si=0tFp4l6P7_BDeCQc)
-
-[Lex Fridman Podcast | Aella](https://youtu.be/cFSrxSBrgSc?si=BypxvDYwct1HyzQM)
 
 ## Meaning
 
@@ -694,11 +698,14 @@ it is fascinating to see how an indicator of economic prosperity has shifted fro
 >
 >__--- me__
 
-> [Meaning is a jumper that you have to knit yourself](https://youtu.be/psaCM1j9LEM)
+{{< youtube 8YMJcIvpUlc >}}
+If Tomorrow Starts Without Me read by Tom O'Bedlam
 
 > du wirst immer das zentrum deines eigenen kleinen univerzum sein
 >
 > __--- Kurzgesagt, [Du bist nicht da, wo du denkst](https://youtu.be/0unvBW91wY0)__
+
+> [Meaning is a jumper that you have to knit yourself](https://youtu.be/psaCM1j9LEM)
 
 > As far as we can discern, the sole purpose of human existance is to kindle a light of meaning in a the darkness of mere being
 >
@@ -761,7 +768,6 @@ it is fascinating to see how an indicator of economic prosperity has shifted fro
 >
 > __--- [if, Rudyard Kipling](https://youtu.be/sqOgyNfHl1U)__
 
-[If Tomorrow Starts Without Me read by Tom O'Bedlam](hhttps://youtu.be/8YMJcIvpUlc)
 
 [Randy Pausch Last Lecture: Achieving Your Childhood Dreams](https://youtu.be/ji5_MqicxSo)
 
@@ -776,9 +782,9 @@ it is fascinating to see how an indicator of economic prosperity has shifted fro
 >
 > __Movie: Soul__
 
-### Hapliness
+### Happiness
 
-> happiness is the progressive realisation of a worthy ideal
+> happiness is the progressive realization of a worthy ideal
 
 Eudaimonia
 
@@ -821,7 +827,7 @@ Time by Pink Floyd
 >
 > __--- Oliver Burkeman, cuatromil semanas Gestión del tiempo para mortales__
 
-### GOD
+### God
 
 > Lo que necesito es una compensación; de lo contrario, desaparece. Y no una compensación en cualquier parte, en el infinito, sino aquí abajo, una compensación que yo pueda ver. Yo he creído, y quiero ser testigo del resultado, y si entonces ya he muerto, que me resuciten.
 > Seria muy triste que todo ocurriese sin que yo lo percibiera. No quiero que mi cuerpo, con sus sufrimientos y sus faltas, sirva tan solo para contribuir a la armonía futura en beneficio de no se quien. Quiero ver con mis propios ojos a la cierva durmiendo junto al león, a la victima besando a su matador. Sobre este deseo reposan todas las religiones y yo tengo fe.
@@ -858,6 +864,9 @@ Very provocative comment
 
 My favorite is rule 10 as it gives you the grace, that even while "knowing" all the rules you will still ~~make mistakes ~~ repeat lessons. As you can't live all the time enlightened, and you eventually will fall back to bad habits catiching yourself frustrated and anoyed, struggling to gain peace of mind remembering how it is really like being a human.
 
+## Motivation
+
+{{< youtube 26U_seo0a1g >}}
 
 ## Miscellaneous
 
@@ -1032,3 +1041,5 @@ My favorite is rule 10 as it gives you the grace, that even while "knowing" all 
 > El gran artista es ante todo un gran viviente
 
 > We accept the love we think we deserve
+
+> Do it sad, do it angry, do it tired, do it scared, do it however you have to do it. Just do it.
