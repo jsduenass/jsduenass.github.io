@@ -321,7 +321,6 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [ ] There will be blood
 - [ ] The pirates of silicon valley
 - [ ] Padington 2
-- [ ] Nosferatu
 - [ ] The social network
 - [ ] Gangs of new york
 - [ ] Un poeta
