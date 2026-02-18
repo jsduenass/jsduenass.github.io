@@ -13,16 +13,16 @@ buttons:
 - name: All
   filter: "all"
 - name: Robotics
-  filter: "robotics"
-- name: Hobby
-  filter: "hobby"
-- name: Other
-  filter: "other"
+  filter: "Robotics"
+#- name: Hobby
+#  filter: "Hobby"
+#- name: Other
+#  filter: "all"
 
 # your projects
 projects:
 - name: kiwiWeatherReport
-  image: assets/images/sections/projects/kiwi_weather_report.png
+  image: /images/sections/projects/kiwi_weather_report.png
   timeline: "2024"
   repo: https://github.com/jsduenass/kiwiWeatherReporter
   summary: "Weather information dashboard, relevant for kiwibot’s field operations team to make decisions during the robots'operation"  
@@ -30,47 +30,38 @@ projects:
 
 - name: Autonomous UGV PAI 
   role: Contributor
+  image: /images/sections/projects/PAI_UGV.png
   timeline: "2022"
   repo: https://github.com/jsduenass/pai
   summary: Autonomous Unmanned Ground Vehicle (UGV) designed as a platform for agricultural applications.
-  tags: [ "Robotics"]
+  tags: [ "Robotics", "Integration"]
 
 - name: Tile-Tech
-  #logo: https://jsds.fyi/Tile-Tech/tile-tech-logo.jpg
+  image: /images/sections/projects/tile_tech.png
   role: Contributor
   timeline: "2023"
   #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: "https://jsds.fyi/Tile-Tech/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Automation for a ceramic tile production process
-  tags: ["Automation"]
+  tags: ["Automation","Digital twin", "PLC","NX mechatronics designer", "project management"]
 
 - name: Stewart Gough Platform
-  #logo: https://jsds.fyi/Tile-Tech/tile-tech-logo.jpg
-  image: assets/images/sections/projects/SG_platform.jpg
+  logo: /images/sections/projects/logo_unal_circle.png
+  image: /images/sections/projects/SG_platform.jpg
   timeline: "2022"
   repo: https://github.com/jsduenass/Stewart_Gough_platform_UNAL
   summary: Maintenance and repair of a Stewart Gough parallel robot platform used for research and education at the Colombian National University. 
-  tags: ["Robotics"]
+  tags: ["Robotics", "Maintenance"]
 
 - name: Data science notebook
-  #logo: https://jsds.fyi/Tile-Tech/tile-tech-logo.jpg
+  image: /images/sections/projects/datascience_coursera_and_jhu.svg
   #role: Contributor
   timeline: "2020"
-  #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: "https://jsds.fyi/datasciencecoursera"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Notes taken and work done while coursing the Data Science specialization courses, A Coursera and John Hopkins joint effort towards teaching data science.
   tags: ["Data Science", "R"]
 
 
-#- name: Tensorflow
-#  logo: /images/sections/projects/tensorflow.png
-#  role: Developer
-#  timeline: "Jun 2018 - Present"
-#  repo: https://github.com/tensorflow/tensorflow
-#  #url: ""
-#  summary: An Open Source Machine Learning Framework for Everyone.
-#  tags: ["professional", "machine-learning"]
-#
 #- name: A sample academic paper
 #  role: Team Lead
 #  timeline: "Jan 2017 - Nov 2017"
@@ -86,13 +77,4 @@ projects:
 #  #url: ""
 #  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 #  tags: ["hobby", "fun"]
-#
-#- name: Toha
-#  logo: /images/sections/projects/toha.png
-#  image: /images/sections/projects/toha_website.png
-#  role: Owner
-#  timeline: "Jun 2019 - Present"
-#  repo: https://github.com/hossainemruz/toha
-#  summary: A Hugo theme for personal portfolio.
-#  tags: ["hobby","hugo","theme","professional"]
 #

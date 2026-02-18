@@ -338,6 +338,10 @@ Whimsical way of showcasing corruption and overreach of power.
 >
 > __--- Isaac Asimov, Prelude to Foundation__
 
+> Nasha, she is the only one who has always been there for me, she has always loved me. Every me. Even him. The me I don’t understand at all.
+>
+> __--- Mickey 17__
+
 ## STEM
 
 > Physics my friend is a narrow path drawn across a gulf that the human imagination cannot grasp
@@ -862,7 +866,7 @@ Very provocative comment
 
 >__--- Cherie Carter-Scott, If Life Is A Game__
 
-My favorite is rule 10 as it gives you the grace, that even while "knowing" all the rules you will still ~~make mistakes ~~ repeat lessons. As you can't live all the time enlightened, and you eventually will fall back to bad habits catiching yourself frustrated and anoyed, struggling to gain peace of mind remembering how it is really like being a human.
+My favorite is rule 10 as it gives you the grace, that even while "knowing" all the rules you will still ~~make mistakes ~~ repeat lessons. As you can't live all the time enlightened, and you eventually will fall back to bad habits catching yourself frustrated and anoyed, struggling to gain peace of mind remembering how it is really like being a human.
 
 ## Motivation
 
