@@ -1,0 +1,18 @@
+# some information about you
+name: "Juan Sebastian Dueñas"
+nickname: "Sebastian "
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hola, Soy  "
+image: "images/author/Sebastian.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "juansebastiands@gmail.com"
+  
+# some summary about what you do
+summary:
+- Bienvenido a mi sitio web
+- Soy un desarrollador
+- Entusiasta de la robótica
+- Pensando en el desarrollo de productos
+- Curioso por el mundo
+- Recolector coleccionista de ideas  

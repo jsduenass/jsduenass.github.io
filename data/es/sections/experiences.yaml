@@ -1,0 +1,103 @@
+# section information
+section:
+  name: Experiencia de trabajo
+  id: experiences
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+
+experiences:
+- company:
+    name: Fly4Future.
+    url: "https://fly4future.com/"
+    location: Prague, Czech Republic
+    # company overview
+    overview: Empresa de I+D centrada en el desarrollo de soluciones de drones personalizados en la intersección entre la universidad, los grupos de investigación y las aplicaciones industriales.
+  positions:
+  - designation: Hardware Engineer
+    start: Feb 2025
+    end: on going
+    responsibilities:
+    - Trabajo en el desarrollo orientado a proyectos de soluciones de drones personalizados contribuyendo al diseño mecánico y creación de prototipos, modelado CAD, integración de componentes y entrega de drones completos.
+- company:
+    name: kiwibot
+    url: "https://www.robot.com"
+    location: Remote
+    # company overview
+    overview: Startup colombiana trabaja para revolucionar la industria de reparto de última milla con robots autónomos. rebranding a robot.com  
+  positions:
+  - designation: Ingeniero Service Desk 
+    start: Feb 2024
+    end: Dec 2024 
+    responsibilities:
+    - Gestión y respuesta a incidentes: Investigación y diagnóstico de primera línea de todos los incidentes y solicitudes de servicio.
+    - Soporte técnico y resolución de problemas: Resolver problemas técnicos relacionados con el sistema de entrega robótica, las aplicaciones de software y la infraestructura de TI.  
+    - Supervisión y mantenimiento del sistema: Supervisar los sistemas y aplicaciones de TI para detectar problemas que puedan afectar la calidad o el tiempo de funcionamiento del servicio.
+    - Calidad y mejora continua: Contribuir a la mejora continua del servicio de TI proporcionando retroalimentación sobre problemas recurrentes y sugiriendo mejoras.  
+    - designation: Ingeniero JR de Mantenimiento 
+    start: Jul 2023
+    end: Dec 2023 
+    responsibilities:
+    - Durante este puesto, asumí la responsabilidad de supervisar el correcto funcionamiento de una flota de 15 robots de reparto, realizando inspecciones exhaustivas, diagnósticos, resolución de problemas y las reparaciones necesarias. Mantuve los robots en óptimas condiciones de funcionamiento, aplicando mis habilidades en análisis de diagramas electrónicos y resolviendo y reparando con soltura las placas electrónicas del sistema mecatrónico.
+- company:
+    name: CETIA - Fuerza Aérea Colombiana 
+    url: "https://poderespacial.fac.mil.co/es/centro-de-investigacion-en-tecnologias-aeroespaciales"
+    location: Madrid, Colombia
+    # company overview
+    overview: El Centro de Innovación Tecnológica Aeronáutica (CETIA) es uno de los cuatro Centros de Investigación de la Dirección de Ciencia, Tecnología e Innovación del Departamento de Educación Aeronáutica y Espacial (JEAES) de la Fuerza Aérea Colombiana. CETIA se encarga del desarrollo de proyectos de investigación e innovación en el campo de las tecnologías aeronáuticas y espaciales, con especial atención al diseño, la construcción y la operación de aeronaves pilotadas remotamente. 
+  positions:
+  - designation: Practica estudiantil
+    start: Apr 2022
+    end: Aug 2022
+    responsibilities:
+    - Prácticas estudiantiles centradas en el desarrollo e investigación del diseño y la construcción de aeronaves pilotadas remotamente. Desarrollo de un sistema de evasión de obstáculos para drones, donde los comandos se controlaban mediante un microcontrolador y las decisiones se tomaban con base en la señal de los sensores lidar monohaz.
+- company:
+    name: Universidad Nacional de Colombia
+    #url: "https://www.example.com"
+    location: Bogota, Colombia
+    # company overview
+    overview: Durante mis estudios tuve la oportunidad de participar en actividades académicas  trabajando como.
+  positions:
+  - designation: Monitor Métodos Numéricos
+    start: Feb 2020
+    end: Jun 2020
+    responsibilities:
+    - Ayudar al profesor con el desarrollo, implementación y presentación de ejemplos representativos de resolución de ecuaciones a traves de métodos numéricos, utilizando herramientas de software matemático como MATLAB. 
+    #url: "https://youtu.be/7Mp9z99Ey2U?si=nO3Q-SW5mCQiX7kT" # If your experience is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  - designation: Par Lider
+    start: Feb 2019
+    end: Jun 2019
+    responsibilities:
+    - Acompañar y apoyar a los estudiantes en el área de física específicamente en la materia fundamentos de mecánica. 
+- company:
+    name: Kumon.
+    #url: "https://www.example.com"
+    location: Bogotá
+    overview: 
+  positions:
+  - designation: Center Assistant
+    start: Augst 2019 
+    end: Dec 2019
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Help students learn english and math
+    
+#- company:
+#    name: Intern Counting Company (ICC).
+#    url: "https://www.example.com"
+#    location: Intern Land
+#    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+#  positions:
+#  - designation: Intern
+#    start: Jun 2015
+#    end: Jan 2016
+#    responsibilities:
+#    - Count lost of interns.
+#    - Count more interns.
+#    - Count me as an intern.

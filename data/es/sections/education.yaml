@@ -1,0 +1,35 @@
+# section information
+section:
+  name: Educación
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Mechatronics Engineer 
+  icon: fa-graduation-cap
+  timeframe: 2016-2024
+  institution:
+    name: Universidad Nacional de Colombia
+    url: "https://unal.edu.co/"
+  
+- name: online learner
+  icon: "fas fa-wifi"
+  timeframe: 2021-2022
+  institution:
+    name: Platzi
+    url: "https://platzi.com/p/JS_DS/"
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    courses:
+    - name: curso Python 
+    - name: curso de Git y Github
+    - name: curso de fundamentos de Ingeniería de Software
+    
+
+ 

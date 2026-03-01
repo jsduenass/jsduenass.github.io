@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Projects
+  name: Proyectos
   id: projects
   enable: true
   weight: 2
@@ -10,9 +10,9 @@ section:
 
 # filter buttons
 buttons:
-- name: All
+- name: Todos
   filter: "all"
-- name: Robotics
+- name: Robótica
   filter: "Robotics"
 #- name: Hobby
 #  filter: "Hobby"
@@ -25,7 +25,7 @@ projects:
   image: /images/sections/projects/kiwi_weather_report.png
   timeline: "2024"
   repo: https://github.com/jsduenass/kiwiWeatherReporter
-  summary: "Weather information dashboard, relevant for kiwibot’s field operations team to make decisions during the robots'operation"  
+  summary: "Panel de información meteorológica, relevante para que el equipo de operaciones de campo de kiwibot tome decisiones durante la operación de los robots."  
   tags: [ "Data Science", "Looker Studio", "Dashboard"]
 
 - name: Autonomous UGV PAI 
@@ -33,7 +33,7 @@ projects:
   image: /images/sections/projects/PAI_UGV.png
   timeline: "2022"
   repo: https://github.com/jsduenass/pai
-  summary: Autonomous Unmanned Ground Vehicle (UGV) designed as a platform for agricultural applications.
+  summary: Vehículo terrestre autónomo no tripulado (UGV) diseñado como plataforma para aplicaciones agrícolas.
   tags: [ "Robotics", "Integration"]
 
 - name: Tile-Tech
@@ -42,7 +42,7 @@ projects:
   timeline: "2023"
   #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: "https://jsds.fyi/Tile-Tech/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Automation of a ceramic tile production plant, using a digital twin to simulate and optimize the production process. The project included Siemens NX Mechatronics Designer CAD modeling, enabling real-time simulation of the production process and identification of bottlenecks to improve efficiency.
+  summary: Automatización de una planta de producción de baldosas cerámicas, utilizando un gemelo digital para simular y optimizar el proceso de producción. El proyecto incluyó  modelado CAD Siemens NX Mechatronics Designer, permitiendo la simulación en tiempo real del proceso de producción y la identificación de cuellos de botella para mejorar la eficiencia.
   tags: ["Automation","Digital twin", "PLC","NX mechatronics designer", "project management"]
 
 - name: Stewart Gough Platform
@@ -50,7 +50,7 @@ projects:
   image: /images/sections/projects/SG_platform.jpg
   timeline: "2022"
   repo: https://github.com/jsduenass/Stewart_Gough_platform_UNAL
-  summary: Maintenance and repair of a Stewart Gough parallel robot platform used for research and education at the Colombian National University. 
+  summary: Mantenimiento y reparación de una plataforma robótica paralela Stewart Gough utilizada para investigación y docencia en la Universidad Nacional de Colombia. 
   tags: ["Robotics", "Maintenance"]
 
 - name: Data science notebook
@@ -58,23 +58,6 @@ projects:
   #role: Contributor
   timeline: "2020"
   url: "https://jsds.fyi/datasciencecoursera"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Notes taken and work done while coursing the Data Science specialization courses, A Coursera and John Hopkins joint effort towards teaching data science.
+  summary: Notas tomadas y trabajo realizado mientras se cursaban las especializaciones de Ciencia de Datos, una colaboración entre Coursera y John Hopkins para enseñar ciencia de datos.
   tags: ["Data Science", "R"]
 
-
-#- name: A sample academic paper
-#  role: Team Lead
-#  timeline: "Jan 2017 - Nov 2017"
-#  url: "https://www.example.com"
-#  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
-#  tags: ["academic","iot"]
-#
-#- name: Nocode
-#  logo: /images/sections/projects/no-code.png
-#  role: Nothing
-#  timeline: "Oct 2019 - Dec 2019"
-#  repo: https://github.com/kelseyhightower/nocode
-#  #url: ""
-#  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-#  tags: ["hobby", "fun"]
-#
