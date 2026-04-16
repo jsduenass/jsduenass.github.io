@@ -623,7 +623,7 @@ Haciendo una critica al modelo mercantilista Adam Smith, pensando en el oro y la
 >
 >[Fight of the Century: Keynes vs. Hayek - Economics Rap Battle Round Two](https://www.youtube.com/watch?v=GTQnarzmTOc)
 
-> If I say that the first industrial revolution, the revolution of the 'dark Satanic mills', was the __devaluation of the human arm__ by the competition of machinery there is not rate of pay at which the United States pick an shovel laborer can live which  is low enough to compete with the work of a steam shovel as an excavator.
+> If I say that the first industrial revolution, the revolution of the 'dark Satanic mills', was the __devaluation of the human arm__ by the competition of machinery there is not rate of pay at which the United States pick an shovel laborer can live which is low enough to compete with the work of a steam shovel as an excavator.
 >
 > The modern industrial revolution is similarly bound to __devalue the human brain__ at least in its simpler or more routine decisions. Of course, just as the skilled carpenter, the skilled mechanic, the skilled dressmaker have in some degree survived the first industrial revolution, so the skilled scientist and the skilled administrator may survive the second. However, taking the second revolution as accomplished, the average human being of mediocre attainments or less has nothing to sell that it is worth anyone’s money to buy.
 >
@@ -657,7 +657,7 @@ it is fascinating to see how an indicator of economic prosperity has shifted fro
 
 > Dr Bigelow: Don't you see this is the good part. This is what you have been digging for all this time. and now you finally have it in you hand. The sweet nugget of love. Sweet sad love. And you want to throw it away. you have it all wrong.
 > 
-> Loui I thought this was the bad part.
+> Loui: I thought this was the bad part.
 >
 > Dr Bigelow: No the bad part is when you forget her. when you don't care about her when you don't care anything. The bad part is comming. So enjoy the heartbreak while you can. For god sakes.
 >
@@ -694,7 +694,6 @@ it is fascinating to see how an indicator of economic prosperity has shifted fro
 >And so it is those we live with and should know, who elude us. But we can still love them, we can love completely without complete understanding.
 >
 > __Like Stories of Old__
-
 
 ## Meaning
 
@@ -772,11 +771,9 @@ If Tomorrow Starts Without Me read by Tom O'Bedlam
 >
 > __--- [if, Rudyard Kipling](https://youtu.be/sqOgyNfHl1U)__
 
-
 [Randy Pausch Last Lecture: Achieving Your Childhood Dreams](https://youtu.be/ji5_MqicxSo)
 
 [John Danaher at the Lex Fridman Podcast](https://www.youtube.com/watch?v=ktuw6Ow4sd0)
-
 
 > Failure fragments personal security. Consistent failure replaces self-confidence. Absolute failure erases identity
 >
@@ -819,7 +816,7 @@ Eudaimonia
 {{< youtube JwYX52BP2Sk >}}
 Time by Pink Floyd
 
-> Time is perishable; it cannot be saved. Time is irrepalceable; nothing else will do. Time is irretrievable; once it is gone or wasted, you can never get it back. Finally, time is indispensable, especially for accomplishments of any kind, All achievment, all results, all succes requieres time.
+> Time is perishable; it cannot be saved. Time is irrepalceable; nothing else will do. Time is irretrievable; once it is gone or wasted, you can never get it back. Finally, time is indispensable, especially for accomplishments of any kind, all achievment, all results, all succes requieres time.
 >
 > __--- Brian Tracy, No excuses the power of self disipline__
 
@@ -919,11 +916,11 @@ My favorite is rule 10 as it gives you the grace, that even while "knowing" all 
 
 > - Vaya te admiro; yo nunca he sido capaz de arreglar estas cosas.
 >
-> - Es es porque no te tomas el tiempo necesario
+> - Eso es porque no te tomas el tiempo necesario
 >
 > __--- Oliver Burkeman, cuatromil semanas Gestión del tiempo para mortales__
 
-> Era precisamente el deseo impaciente de los estudiante de hacer el trabajo auna velocidad que no era la adecuada, de correr hasta terminarlo, lo que impedia que progresaran. No podían soporta el malestar que les producia verse obligados a reconocer su limitado control sobre la velocidad del proceso creativo, así que trataba de evitarlo , ya fuera no poniendose a trabajar en absoluto o lanzándose de cabeza a estresantes maratones de escritura que duraban días enteros. Y que los llevaban más adelante a procrastinar, porque acababan odiando lo que tenían que hacer.
+> Era precisamente el deseo impaciente de los estudiante de hacer el trabajo a una velocidad que no era la adecuada, de correr hasta terminarlo, lo que impedia que progresaran. No podían soporta el malestar que les producia verse obligados a reconocer su limitado control sobre la velocidad del proceso creativo, así que trataba de evitarlo , ya fuera no poniendose a trabajar en absoluto o lanzándose de cabeza a estresantes maratones de escritura que duraban días enteros. Y que los llevaban más adelante a procrastinar, porque acababan odiando lo que tenían que hacer.
 >
 > __--- Oliver Burkeman, cuatromil semanas Gestión del tiempo para mortales__
 
@@ -938,9 +935,9 @@ My favorite is rule 10 as it gives you the grace, that even while "knowing" all 
 > we've chosen a day
 >
 > the day you were born
-> 
-> to celebrate you 
-> 
+>
+> to celebrate you
+>
 > and all what you've done
 >
 >
@@ -1047,3 +1044,5 @@ My favorite is rule 10 as it gives you the grace, that even while "knowing" all 
 > We accept the love we think we deserve
 
 > Do it sad, do it angry, do it tired, do it scared, do it however you have to do it. Just do it.
+
+> Once the battle for survival has been won it is followed by the battle for meaning

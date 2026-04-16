@@ -153,15 +153,21 @@ don't quite made the cut but worth to keep an eye on if I change my mind:
 - [ ] Dublineses. James Joyce
 - [ ] Wildseed. Octavia E. Butler
 - [ ] The Journey : A Big Panda and Tiny Dragon. James Norbury
-- [ ] The Boy, The Mole, The Fox and The Horse. Charlie Mackesy
 - [ ] Great expectations. Charles Dickens
 - [ ] The art of slow living. Samar Cajal
 - [ ] Svědectví o životě v KLDR (Testimony of life in North Korea). Nina Špitalková
 - [ ] The Printing Press as an Agent of Change. Elizabeth L. Eisenstein
 - [ ] Open Letters. Vaclav Havel.
- 
+- [ ] Diarios de motocicleta. Che Guevara
+- [ ] The expatiates. Janice Y.K Lee
+- [ ] Designing your life. Dave Evans
 
 Prehistoria de la Ciencia Ficción. de Laguna Libros
+
+Into the wild rabbithole:
+
+- [ ] Everett ruess a vagabond for beauty
+- [ ] The call of thw wild. Jack London
 
 For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 
@@ -196,7 +202,7 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [x] Bootstrapping Douglas Endelbart and the origins of Personal Computing. Thierry Bardin
 - [x] The Human Use of Human Beings. Norbert Weiner
 - [x] Guerra y paz. Leon Tolsoi
-- [x] La era del diamante. Neal Stephenson
+- [x] The diamond age. Neal Stephenson
 - [x] A tale of two cities. Charles Dickens
 - [x] París. Edward Rutherfurd
 - [x] Paris del siglo xx. Julio Verne
@@ -237,6 +243,7 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [x] Brave New World. Aldous Huxley
 - [x] Si una Noche de Invierno un Viajero. Italo Calvino
 - [x] Los amores difíciles. Italo calvino
+- [X] [China 2185. liu cixin](https://dlf.uzh.ch/sites/sinofutures/2019/12/02/122/) [internet version](http://www.kehuan.net.cn/book/2185.html). Hopefully one day it'll have a official printed translation.
 - [x] Golem XIV . Stanislaw Lem
 - [x] La ruidosa marcha de los mudos. Juan Alvarez
 - [x] Marina. Carlos Ruiz Zafón
@@ -277,7 +284,7 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [ ] Robotics vision and control. Peter Corke
 - [ ] Introduction to autonomous mobile robots. Reza Nourbakhsh ans Roland Siegwart
 - [ ] New Kind of Science. Stephen Wolfram
-- [ ] [China 2185. liu cixin](https://dlf.uzh.ch/sites/sinofutures/2019/12/02/122/) [internet version](http://www.kehuan.net.cn/book/2185.html). Hopefully one day it'll have a official printed translation.
+- [ ] Wild. Cheryl Strayed
 
 #### Essays, papers and blogs
 
@@ -305,6 +312,7 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - Sinister 2
 
 - One battle after another
+- Project Hail Mary
 - Mickey 17
 
 - [ ] Before Sunrise/Before Sunset/Before Midnight
@@ -328,6 +336,11 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [ ] Into the wild
 - [ ] The life of walter mitty
 - [ ] The way
+- [ ] Begin again
+- [ ] The ballad of the Wallis island
+- [ ] The music box
+- [ ] Which way home
+
 
 ## Series
 
@@ -389,3 +402,4 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [ ] Ushuaia Argentina
 - [ ] Daryl’s House, Pawling, NY. [Music venue owned by Daryl Hall](https://youtu.be/4qHcRztwpAw?si=07gSZr358Se9CPj8)
 - [ ] Greece
+- [ ] Cité des sciences, Paris
