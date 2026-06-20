@@ -342,6 +342,13 @@ Whimsical way of showcasing corruption and overreach of power.
 >
 > __--- Mickey 17__
 
+> No había nada en aquella casa que hablase del presente. Benjamín Sentís vivía en 
+>
+> __--- Marina, Carlos Ruiz Zafón__
+
+> El circo fue mi escuela y le hogar donde crecí. Ya por entonces sabíamos, sin embargo, que estaba condenado. La realidad del mundo empezaba a ser más grotesca que las pnatomimas de los payasos y los osos danzarines. Pronto, nadie nos necesitaría. el siglo xx se había convertido en el gran circo de la historia
+
+
 ## STEM
 
 > Physics my friend is a narrow path drawn across a gulf that the human imagination cannot grasp
@@ -379,6 +386,15 @@ Gartner hype cycle
 > Getting things done means doing things you might not be interested in. No matter how exciting or appealing a project is, there are always boring tasks. Tedious tasks. Tasks that a less mature engineer may deem beneath their dignity or their job title.
 >
 >__---John Allspaw__
+
+> Me doy cuenta de que al correr hacia Y lo que más deseo no es encontrar a Y al término de mi carrera: quiero que sea Y la que corra hacia mí, ésta es la respuesta que necesito, es decir, necesito que sepa que corro hacia ella pero al mismo tiempo necesito saber que ella corre hacia mí. La única idea que me reconforta es, sin embargo, la que más me atormenta: la idea de que si en este momento Y corre hacia A, también ella cada vez que vea los faros de un coche que va hacia B se preguntará si soy yo el que corre hacia ella, deseará que sea yo y no podrá jamás estar segura. Ahora dos coches que van en direcciones opuestas se han encontrado por un segundo uno junto al otro, un resplandor ha iluminado las gotas de lluvia y el rumor de los motores se ha fundido come en un brusco soplo de viento: quizás eramos nosotros, es decir, es seguro que yo era yo, si eso significa algo, y la otra podría ser ella, es decir, la que yo quiero que ella sea, el signo de ella en le quiero reconocerla, aunque sea justamente el signo mismo que me la vuelve irreconocible. Correr por la autovía es el único modo que nos queda, a ella y a mí, de expresar lo que tenemos que decirnos, pero no podemos comunicarlo ni recibirlo mientras sigamos corriendo.
+>
+> __-- Italo Calvino, La aventura de un automovilista__
+
+> porque hasta los dolores más intenso y los instatess más felices de sus tiempo grandes se le habína escurrido sin remedio por las troneras de la memoria a pesar de sus tentativas cándidas de impedirlo con tapones de papelitos enrollados
+>
+> __--- Gabriel García Márquez, El otoño del patriarca__
+
 
 ### Computers
 >
@@ -498,6 +514,26 @@ This quote captures the problem of making code accesible and understandable, a p
 
 > you can filter all your team members into broad categories based on skillfulness, determination, focus, kindness+integrity
 
+> Take the industrial idea; what is it? The true industrial idea is not to make money. The industrial idea is to express a serviceable idea, to duplicate a useful idea, by as many thousands as there are people who need it ...
+>
+> There are short-sighted men who cannot see that business is bigger than any one man's interest ... Whenever you find a man who believes that busiones is a river whose beneficial flow ought to stop as soon as it reaches him you find a man who thinks he can keep business alive by stopping its circulation. He would produce wealth by this stopping of the production of wealth.
+>
+> __--- Henry Ford, My life and work__
+
+> The place to finance a manufcaturing business is the shop, and not the bank. I would not say that a man in business needs to know nothing at all about finance, but he is better of knowing too little than too much, for if he becomes too expert he will get into the way of thinking that he can borrow money instead of earning it and then he will borrow more money to pay back what he has borrowed, and instead of being a business man he will be a note juggler, trying to keep in the a regular flock of bonds and notes.
+>
+> __--- Henry Ford, My life and work Chpater XI Money and goods__
+
+> A business that misuses what it has, will continue to misuse what it can get.
+>
+> __--- Henry Ford, My life and work__
+
+> Money, after all, is extremely simple. It is a part of our transportation system. It is a simple and direct method of conveying goods from one person to another.
+>
+> __--- Henry Ford, My life and work__
+
+> It is not sensational brilliance that one seeks in business, but sound, substantial dependability.
+> __--- Henry Ford, My life and work__
 
 ## Education and learning
 
@@ -638,6 +674,10 @@ automation techniques seem closely tied to world economics
 >__---- John Craig__
 
 it is fascinating to see how an indicator of economic prosperity has shifted from production to consumption
+
+> Money is a way of measuring wealth but is not wealth in itself. A chest of gold coins or a fat wallet of bills is of no use whatsoever to wrecked sailor alone on a raft.
+>
+> __--- Allan Watts__
 
 ## Interpersonal relationships
 
@@ -869,6 +909,11 @@ My favorite is rule 10 as it gives you the grace, that even while "knowing" all 
 
 {{< youtube 26U_seo0a1g >}}
 
+> If you are serious about doing something the cost you actually pay separates you from someone who only talks a big game
+
+> Goals that are not written down and developed into plans are like bullets without powder in the cartrige. People with unwritten goals go through life shooting blanks.
+> __--- Brian Tracy, No Excuses!: The Power of Self-Discipline__
+
 ## Miscellaneous
 
 > Nothing is sacred to the critical eye, nothing can withstand scrutiny
@@ -971,7 +1016,18 @@ My favorite is rule 10 as it gives you the grace, that even while "knowing" all 
 >
 > wish you the best
 >
-> -- Sebastian
+> __-- Sebastian__
+
+> F.A.I.L: First Attempt In Learning
+
+> There are no maps without confusion. To discover new continents you must be at peace with being adrift
+>
+> __-- exurb1a,maybe I'm the alien__
+
+
+> You are the safe harbor where the ships of my thougths can arrive at.
+> __-- Me__
+
 
 ## Sayings
 
@@ -1046,3 +1102,9 @@ My favorite is rule 10 as it gives you the grace, that even while "knowing" all 
 > Do it sad, do it angry, do it tired, do it scared, do it however you have to do it. Just do it.
 
 > Once the battle for survival has been won it is followed by the battle for meaning
+
+> The past has left you but the future has not yet taken hold
+>
+> __--- Adam Savage__
+
+On reference to liminal spaces

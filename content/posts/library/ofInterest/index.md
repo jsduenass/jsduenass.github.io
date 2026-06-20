@@ -12,7 +12,6 @@ menu:
 
 Because I seem to be pretty fond on lists, here are some more, of interesting institutions universities and people doing amazing work.
 
-
 # Universities
 
 - ETH Zürich.
@@ -48,6 +47,8 @@ Because I seem to be pretty fond on lists, here are some more, of interesting in
 - University of Nothinham. numberphile
 - IIT Gandhinagar
 - Fachhochschule Wedel University of Applied Sciences
+- Nanyang Technological University in Singapore
+- Southern University of Science and Technology (SUSTech). Shenzhen, china
 
 ## People
 
@@ -60,7 +61,7 @@ Because I seem to be pretty fond on lists, here are some more, of interesting in
 - Lorenz Meier. Auterion drone company
 - Peter Corke. robotics toolbox
 - Stephen Wolfram
-- Professor Jeff Hoffman. [Introduction to aerospace engineerign: Astronautics and Human Spaceflight](https://www.youtube.com/watch?v=bvxqCAkjDxs)
+- Professor Jeff Hoffman. [Introduction to aerospace engineering: Astronautics and Human Spaceflight](https://www.youtube.com/watch?v=bvxqCAkjDxs)
 - Randy Pausch. Alice python  [lecture](https://archive.org/details/GabrielRobins-50YearsOfComputerScienceInnovationByRandyPausch812)
 - Don Norman. Father of UX
 - Rich Harris. svelte's creator
@@ -88,7 +89,7 @@ Because I seem to be pretty fond on lists, here are some more, of interesting in
 - John Carmack. Best programmer (allegedly)
 - Sergei Lupashin
 - Adrian Bowyer. RepRap
-- Peo Hansen. Migration
+- [Peo Hansen. Migration](https://youtu.be/QoFLHx-t-Yk?si=6u6nlqrUuLxCRMCJ)
 - Rob Cohee. Product Manager Fusion360
 
 ## Institutions
@@ -119,3 +120,7 @@ Because I seem to be pretty fond on lists, here are some more, of interesting in
 - Mathworks
 - kiwibot
 - Esri
+
+## Concepts
+- Double Consciousness - Du Bois: refers to the experience of seeing oneself through the lens of a dominant, prejudiced society while simultaneously viewing oneself through one's own authentic, lived experience.
+- Anomia - Emile Durkheim

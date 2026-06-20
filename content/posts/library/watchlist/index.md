@@ -29,6 +29,7 @@ This is a (on going) curated list to navigate this question.  Movies worth watch
 - [ ] El límite de las mentiras: La polémica vida del Perito Francisco Pascasio Moreno 1852-1919. Gerardo Bartolomé
 - [ ] Historia social del conocimiento. Peter Burke
 - [ ] Seveneves. Neal Stephenson
+- [ ] The diaries. Franz Kafka
 - [ ] It's Been a Good Life. Isaac Asimov
 - [ ] Before i Leave You: A Memoir on Suicide, Addiction and Healing. Robert Imbeault
 - [ ] Johnny Got His Gun. Dalton Trumbo
@@ -91,7 +92,7 @@ don't quite made the cut but worth to keep an eye on if I change my mind:
 - [ ] The Invisible Computer. Donald Norman
 - [ ] Turn Signals Are The Facial Expressions Of Automobiles. Donald Norman
 - [ ] My grandmother asked me tell you she's sorry. Fredrik Backman
-- [ ] The archaeology of knowledge. Michael Foucautl
+- [ ] The archaeology of knowledge. Michael Foucault
 - [ ] Reinventing Discovery: The New Era of Networked Science.  Michael Nielsen
 - [ ] [singularity](https://edoras.sdsu.edu/~vinge/misc/singularity.html)
 - [ ] The End of History and the Last Man. Francis Fukuyama
@@ -149,25 +150,29 @@ don't quite made the cut but worth to keep an eye on if I change my mind:
 - [ ] Persépolis. Marjane Satrapi
 - [ ] EXPLORER: Futuristic Vehicles for Uncharted Christian Grajewski
 - [ ] I have no mouth and i must scream. Harlan Ellison
-- [ ] Finnegans Wake. James Joyce
+- [ ] Finnegans Wake. James Joyce. After reading some short stories from James Joyce I don't think it is for me
 - [ ] Dublineses. James Joyce
 - [ ] Wildseed. Octavia E. Butler
 - [ ] The Journey : A Big Panda and Tiny Dragon. James Norbury
 - [ ] Great expectations. Charles Dickens
-- [ ] The art of slow living. Samar Cajal
+- [ ] The art of slow living. Samar Cajal. I want to have it in my living room as it is aesthetically pleasing and can be an anchor for thinking about the living spaces you want to be in
 - [ ] Svědectví o životě v KLDR (Testimony of life in North Korea). Nina Špitalková
 - [ ] The Printing Press as an Agent of Change. Elizabeth L. Eisenstein
 - [ ] Open Letters. Vaclav Havel.
 - [ ] Diarios de motocicleta. Che Guevara
 - [ ] The expatiates. Janice Y.K Lee
 - [ ] Designing your life. Dave Evans
+- [ ] No Reservations: Around the World on an Empty Stomach. Anthony Bourdain
+- [ ] Wild Swans: Three Daughters of China. Jung Chang
+- [ ] The Eyre Affair. Jasper Fforde
+- [ ] Klara and the Sun. Kazuo Ishiguro
 
 Prehistoria de la Ciencia Ficción. de Laguna Libros
 
 Into the wild rabbithole:
 
 - [ ] Everett ruess a vagabond for beauty
-- [ ] The call of thw wild. Jack London
+- [ ] The call of the wild. Jack London
 
 For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 
@@ -217,6 +222,7 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [x] El mundo y sus demonios. Carl Sagan
 - [x] Terraformar la tierra. Jack Williamson
 - [x] Ficciones. Jorge Luis Borges
+- [x] Children of time. Adrian Tchaikovsky
 - [x] Vivir para contarla. Gabriel Garcia Marquez
 - [x] El otoño del patriarca. Gabriel Garcia Marquez
 - [x] Cien años de soledad. Gabriel Garcia Marquez
@@ -243,6 +249,8 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [x] Brave New World. Aldous Huxley
 - [x] Si una Noche de Invierno un Viajero. Italo Calvino
 - [x] Los amores difíciles. Italo calvino
+- [x] Wild: From Lost to Found on the Pacific Crest Trail. Cheryl Strayed
+- [x] Into the wild. Jon Krakauer
 - [X] [China 2185. liu cixin](https://dlf.uzh.ch/sites/sinofutures/2019/12/02/122/) [internet version](http://www.kehuan.net.cn/book/2185.html). Hopefully one day it'll have a official printed translation.
 - [x] Golem XIV . Stanislaw Lem
 - [x] La ruidosa marcha de los mudos. Juan Alvarez
@@ -268,6 +276,7 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [x] Angela Merkel la fisica del poder. Patricia Salazar y Christina Mendoza
 - [x] El extranjero. Albert Camus
 - [x] La biblioteca de la media noche. Matt Haig
+- [x] Annihilation. Jeff VanderMeer
 - [x] El idiota. Fyodor Dostoyevsky
 - [x] We. Yevgueni Zamiatin
 
@@ -284,16 +293,17 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [ ] Robotics vision and control. Peter Corke
 - [ ] Introduction to autonomous mobile robots. Reza Nourbakhsh ans Roland Siegwart
 - [ ] New Kind of Science. Stephen Wolfram
-- [ ] Wild. Cheryl Strayed
+
 
 #### Essays, papers and blogs
 
 - [x] Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?. Einstein-Podolsky-Rosen. (EPR article/ EPR paradox)
-- [x] Black swan farming. Paul Graham
+- [x] [Black swan farming](https://www.paulgraham.com/swan.html). Paul Graham
+- [x] [Cities and ambition](https://paulgraham.com/cities.html)
 - [ ] The Limits to Growth (LTG)
 - [ ] [Scaling Software Development. Alex Gaynor](https://alexgaynor.net/2020/feb/18/scaling-software-development)
 - [ ]  Boing Boing blog. Cory doctorow
-- [ ]  [A blind writers notebook](https://catapult.co/editorial/topics/a-blind-writer-s-notebook/stories). leona godin
+- [ ] [A blind writers notebook](https://catapult.co/editorial/topics/a-blind-writer-s-notebook/stories). leona godin
 - [ ] Attention Is All You Need. Ashish Vaswani
 - [ ] Self-Reliance. Ralph Waldo Emerson
 
@@ -310,17 +320,20 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - The spideverse
 - The pianist.
 - Sinister 2
+- Beutiful boy
 
 - One battle after another
 - Project Hail Mary
 - Mickey 17
 
 - [ ] Before Sunrise/Before Sunset/Before Midnight
+- [ ] Your name
 - [ ] In the mood for love
 - [ ] [Persian lesson](https://youtu.be/5FdRKMQMj4o?si=a4rjfoWoofKaEVmJ)
 - [ ] The Man from Earth
 - [ ] Elio
 - [ ] I bite
+- [ ] Lion
 - [ ] Past lives
 - [ ] Office space
 - [ ] Wall street
@@ -340,7 +353,9 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [ ] The ballad of the Wallis island
 - [ ] The music box
 - [ ] Which way home
-
+- [ ] Ad Astra
+- [ ] Dr strangelove
+- [ ] I swear
 
 ## Series
 
@@ -360,6 +375,7 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [ ] Young Sheldon
 - [ ] House of lies
 - [ ] Attack on Titan
+- [ ] Fleabag
 
 ## Theater
 
@@ -367,6 +383,7 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - The lion king
 - La dama de negro
 - Elixir de amor.
+- Les Luthiers. [Cumbia epistemolgica](https://youtu.be/p9ZdeARKTzE?si=232sTWTaLPJUHBFL), [Perdonala](https://youtu.be/RbRSEY2f7Yo?si=sfEpSPa2za-bk1fS), [El poeta y el eco](https://youtu.be/6dDHX8vixUU?si=elCXfP4_PsTFHSZ0), [Mastropiero Que Nunca](https://youtu.be/h0FdUAkeb8w?si=r7gARjOQPw7v_YCv)
 
 - [ ] Pagliacci
 - [ ] Esquizofrenia. Rafael Perrin
@@ -391,7 +408,7 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 ## Places
 
 - [ ] Schengen, China. Capital of electronics production
-- [ ] Pacific Crest Trail (PCT)
+- [ ] [Pacific Crest Trail (PCT)](https://youtu.be/hiVbB7Pf2lY?si=uSqQfcbPNvNHI9X2)
 - [ ] Taiwan
 - [ ] Singapore
 - [x] Zurich, switzerland
