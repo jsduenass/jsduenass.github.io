@@ -84,6 +84,7 @@ This is a (on going) curated list to navigate this question.  Movies worth watch
 - [ ] Dusk of Dawn. W.E.B. Du Bois
 - [ ] Mind Over Mood. Dennis Greenberger and Christine A. Padesky
 - [ ] Snow Crash. Neal Stephenson
+- [ ] How we became posthuman. Katherine Hayles
 
 ### Honorable mention
 

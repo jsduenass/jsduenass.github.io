@@ -166,7 +166,7 @@ Sherlock Holmes strikes as a very modern and relatable character, his life in so
 
 > Establishing the historicity of the present in the sense of denaturalizing the present by showing it to be neither arbitrary nor inevitable but the conjunctural result of complex, knowable material processes.
 >
->__Carl Freedman, Critical theory and science fiction__
+>__--- Carl Freedman, Critical theory and science fiction__
 
 > Es cierto que la nación no se crea por leyes ni decretos, sobre todo en Colombia, pues sabido es que muchas normas estipuladas en la Constitución son letra muerta
 >
@@ -266,9 +266,6 @@ This whimsical quote could be easily pass as a gag,  except it is repeated sever
 >
 > __--- Vaclav Havel, To the castle and back__
 
-> Los libros son un simulacro de recuerdo, una prótesis para recordar
-> __--- Héctor Abad Gómez,El olvido que seremos__
-
 > But isn't it true that an author can write only about himself? ... I have known all these situations, I have experienced them myself, yet none of them has given rise to the person my curriculum vitae and I represent. The characters in my novels are my own unrealized posibilites. That is why I am equally fond of them all and equally horrified by them.
 >
 > __--- Milan Kundera, the unbearable lightness of being__
@@ -309,7 +306,7 @@ This sentence showcases complex psychology of the characters and the conflicted 
 >
 > __---  Octavia E. Butler, The parable of the talents__
 
-Having doubts about a vision or goals you are pursuing is normal, if no inevitable. But to have doubts the way Olamina has them sounds the most aspirational. She has no doubts about the worthiness of the goal, she doubts if she is up to the task. It looks so ambitious that posible reach of our actions look minuscule in comparison and yet persist because there is no other way. This mentality is powerful as strong convictions makes you push through hard times, but this single mindedness can turn dangerous when you are not self critical on it.
+Having doubts about a vision or goals you are pursuing is normal, if no inevitable. But to have doubts the way Olamina has them sounds the most aspirational. She has no doubts about the worthiness of the goal, she doubts if she is up to the task. It looks so ambitious that the posible reach of our actions look minuscule in comparison, and yet you must persist because there is no other way. This mentality is powerful, strong convictions make you push through hard times, but this single mindedness can turn dangerous when you are not self critical on it.
 
 > yet shorsighted is exactly what she was. She sacrificed us for an idea. And if she didn't know what she was doing she should have known .. if her good days were to be in the future on some extrasolar world, that only made them more pathetically unreal.
 >
@@ -320,6 +317,7 @@ Having doubts about a vision or goals you are pursuing is normal, if no inevitab
 > __--- Neal Stephenson, The diamond age__
 
 > Sages, seers, and theoretical physicists could only speculate at what, if any, relationship might exist between the Shangahai Police Department's astonishing scope of activities and actual law enforcement.
+>
 > __--- Neal Stephenson, The diamond age__
 
 Whimsical way of showcasing corruption and overreach of power.
@@ -342,12 +340,13 @@ Whimsical way of showcasing corruption and overreach of power.
 >
 > __--- Mickey 17__
 
-> No había nada en aquella casa que hablase del presente. Benjamín Sentís vivía en 
+> No había nada en aquella casa que hablase del presente. Benjamín Sentís vivía en pretérito pluscuamperfecto
 >
 > __--- Marina, Carlos Ruiz Zafón__
 
-> El circo fue mi escuela y le hogar donde crecí. Ya por entonces sabíamos, sin embargo, que estaba condenado. La realidad del mundo empezaba a ser más grotesca que las pnatomimas de los payasos y los osos danzarines. Pronto, nadie nos necesitaría. el siglo xx se había convertido en el gran circo de la historia
-
+> El circo fue mi escuela y el hogar donde crecí. Ya por entonces sabíamos, sin embargo, que estaba condenado. La realidad del mundo empezaba a ser más grotesca que las pnatomimas de los payasos y los osos danzarines. Pronto, nadie nos necesitaría. el siglo xx se había convertido en el gran circo de la historia
+>
+> __--- Marina, Carlos Ruiz Zafón__
 
 ## STEM
 
@@ -508,9 +507,6 @@ This quote captures the problem of making code accesible and understandable, a p
 
 > I’ve had detailed conversations with many professors and it was apparent that most of them had themselves never applied concepts they were teaching. Their knowledge is restricted to the textbook and questions they have been asking for years in their exams.
 
-> Of a 168-hour week, 56 hours are typically spent sleeping and 40 hours earning money. That leaves 72 hours every week to watch cat videos on YouTube  -  this we call spare time.
->
-> __--- Alex Winkler__
 
 > you can filter all your team members into broad categories based on skillfulness, determination, focus, kindness+integrity
 
@@ -522,7 +518,7 @@ This quote captures the problem of making code accesible and understandable, a p
 
 > The place to finance a manufcaturing business is the shop, and not the bank. I would not say that a man in business needs to know nothing at all about finance, but he is better of knowing too little than too much, for if he becomes too expert he will get into the way of thinking that he can borrow money instead of earning it and then he will borrow more money to pay back what he has borrowed, and instead of being a business man he will be a note juggler, trying to keep in the a regular flock of bonds and notes.
 >
-> __--- Henry Ford, My life and work Chpater XI Money and goods__
+> __--- Henry Ford, My life and work - Chapter XI Money and goods__
 
 > A business that misuses what it has, will continue to misuse what it can get.
 >
@@ -533,6 +529,7 @@ This quote captures the problem of making code accesible and understandable, a p
 > __--- Henry Ford, My life and work__
 
 > It is not sensational brilliance that one seeks in business, but sound, substantial dependability.
+>
 > __--- Henry Ford, My life and work__
 
 ## Education and learning
@@ -823,6 +820,10 @@ If Tomorrow Starts Without Me read by Tom O'Bedlam
 >
 > __Movie: Soul__
 
+> For what it's worth: it's never too late or, in my case, too early to be whoever you want to be. There's no time limit, stop whenever you want. You can change or stay the same, there are no rules to this thing. We can make the best or the worst of it. I hope you make the best of it. And I hope you see things that startle you. I hope you feel things you never felt before. I hope you meet people with a different point of view. I hope you live a life you're proud of. If you find that you're not. I hope you have the strength to start all over again.
+>
+> __Movie: the Curious case of Benjamin Button__
+
 ### Happiness
 
 > happiness is the progressive realization of a worthy ideal
@@ -856,7 +857,7 @@ Eudaimonia
 {{< youtube JwYX52BP2Sk >}}
 Time by Pink Floyd
 
-> Time is perishable; it cannot be saved. Time is irrepalceable; nothing else will do. Time is irretrievable; once it is gone or wasted, you can never get it back. Finally, time is indispensable, especially for accomplishments of any kind, all achievment, all results, all succes requieres time.
+> Time is perishable; it cannot be saved. Time is irrepalceable; nothing else will do. Time is irretrievable; once it is gone or wasted, you can never get it back. Finally, time is indispensable, especially for accomplishments of any kind, all achivement, all results, all success requieres time.
 >
 > __--- Brian Tracy, No excuses the power of self disipline__
 
@@ -867,6 +868,10 @@ Time by Pink Floyd
 > Cada vez que decides dedicar una parte de tu tiempo a algo en concreto, estás dejando de lado todas las otras posibles manera de emplear ese tiempo.  Y realizar ese sacrificio de forma voluntaria es pronunciarse, sin reservas, sobre lo que es más importante para ti.
 >
 > __--- Oliver Burkeman, cuatromil semanas Gestión del tiempo para mortales__
+
+> The ability to play chess is the sign of a gentleman. The ability to play chess well is the sign of a wasted life
+>
+>__--- Paul Morphy__
 
 ### God
 
@@ -1028,6 +1033,9 @@ My favorite is rule 10 as it gives you the grace, that even while "knowing" all 
 > You are the safe harbor where the ships of my thougths can arrive at.
 > __-- Me__
 
+> Of a 168-hour week, 56 hours are typically spent sleeping and 40 hours earning money. That leaves 72 hours every week to watch cat videos on YouTube  -  this we call spare time.
+>
+> __--- Alex Winkler__
 
 ## Sayings
 
