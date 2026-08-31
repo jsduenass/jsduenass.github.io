@@ -21,7 +21,7 @@ This is a (on going) curated list to navigate this question.  Movies worth watch
 
 - [ ] Letters to a young scientist. Edward Osborne Wilson
 - [ ] [Quantum country](https://quantum.country/)
-- [ ] The man in the high castle.  Philip K. Dick
+- [ ] The man in the high castle. Philip K. Dick
 - [ ] Masters of Doom. David Kushner
 - [ ] Bloc by Bloc: How to Organize a Global Enterprise for the New Regional Order.  Steven Weber
 - [ ] [The MIT Rad Lab Series](http://web.mit.edu/klund/www/books/radlab.html).
@@ -134,13 +134,11 @@ don't quite made the cut but worth to keep an eye on if I change my mind:
 - [ ] Butterfly Kills: A Stonechild and Rouleau Mystery. Brenda Chapman
 - [ ] alias Grace. Margaret Atwood
 - [ ] The Perfectionists: How Precision Engineers Created the Modern. Simon Winchester
-- [ ] Cuerpos luminares y de otras dimensiones. Rodrigo Bastidas
 - [ ] Nunca te quise dar en la jeta javier. Juan Alvarez
 - [ ] Gödel, Escher, Bach: un Eterno y Grácil Bucle. Douglas Hofstadter
 - [ ] PoC || GTFO
 - [ ] 2600: The Hacker Quarterly
 - [ ] Spaceman of Bohemia. Jaroslav Kalfar
-- [ ] War of the newts. Karel Capek
 - [ ] The Politics Industry. Katherine Gehl y Michael Porter
 - [ ] A Civic Technologist's Practice Guide. Cyd Harrell
 - [ ] West's Business Law: Text, Cases, Legal, Ethical, Regulatory, and International Environment. Kenneth W. Clarkson
@@ -248,12 +246,15 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [x] Guía Asimov para la Biblia. Isaac Asimov
 - [x] The process. Franz kafka
 - [x] Brave New World. Aldous Huxley
+- [x] War of the newts. Karel Capek
 - [x] Si una Noche de Invierno un Viajero. Italo Calvino
 - [x] Los amores difíciles. Italo calvino
 - [x] Wild: From Lost to Found on the Pacific Crest Trail. Cheryl Strayed
 - [x] Into the wild. Jon Krakauer
 - [X] [China 2185. liu cixin](https://dlf.uzh.ch/sites/sinofutures/2019/12/02/122/) [internet version](http://www.kehuan.net.cn/book/2185.html). Hopefully one day it'll have a official printed translation.
+- [x] Sublimia Syndrome. Exurb1a
 - [x] Golem XIV . Stanislaw Lem
+- [x] This Is How You Lose the Time War. Amal El-Mohtar and Max Gladstone.
 - [x] La ruidosa marcha de los mudos. Juan Alvarez
 - [x] Marina. Carlos Ruiz Zafón
 - [x] El olvido que seremos. Tyto Alba, adaptación de la novela de Héctor Abad Faciolince.
@@ -294,7 +295,7 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [ ] Robotics vision and control. Peter Corke
 - [ ] Introduction to autonomous mobile robots. Reza Nourbakhsh ans Roland Siegwart
 - [ ] New Kind of Science. Stephen Wolfram
-
+- [ ] Cuerpos luminares y de otras dimensiones. Rodrigo Bastidas
 
 #### Essays, papers and blogs
 
@@ -322,10 +323,12 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - The pianist.
 - Sinister 2
 - Beutiful boy
+- La pena maxima
 
 - One battle after another
 - Project Hail Mary
 - Mickey 17
+- Un poeta
 
 - [ ] Before Sunrise/Before Sunset/Before Midnight
 - [ ] Your name
@@ -345,7 +348,6 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [ ] Padington 2
 - [ ] The social network
 - [ ] Gangs of new york
-- [ ] Un poeta
 - [ ] Perfect days
 - [ ] Into the wild
 - [ ] The life of walter mitty

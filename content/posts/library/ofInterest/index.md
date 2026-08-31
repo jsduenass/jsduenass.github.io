@@ -106,6 +106,8 @@ Because I seem to be pretty fond on lists, here are some more, of interesting in
 - Auterion
 - Framework
 - Ocado
+- imagineering
+- industrial light and magic
 - Gitlab
 - Intrinsic
 - Amazon robotics
