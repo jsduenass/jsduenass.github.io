@@ -85,6 +85,8 @@ This is a (on going) curated list to navigate this question.  Movies worth watch
 - [ ] Mind Over Mood. Dennis Greenberger and Christine A. Padesky
 - [ ] Snow Crash. Neal Stephenson
 - [ ] How we became posthuman. Katherine Hayles
+- [ ] The Screwtape Letters. C.S. Lewis
+- [ ] There Is No Antimemetics Division. qntm
 
 ### Honorable mention
 
@@ -165,6 +167,10 @@ don't quite made the cut but worth to keep an eye on if I change my mind:
 - [ ] Wild Swans: Three Daughters of China. Jung Chang
 - [ ] The Eyre Affair. Jasper Fforde
 - [ ] Klara and the Sun. Kazuo Ishiguro
+- [ ] Taipei Story R F
+- [ ] The fifth sactred thing. Starhawk
+- [ ] Bartley, the scrivener. Herman Melville
+- [ ] Katabasis. R F. Kuang
 
 Prehistoria de la Ciencia Ficción. de Laguna Libros
 
@@ -262,7 +268,7 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [x] Watchmen. Alan Moore
 - [x] Satanas. Mario Mendoza
 - [x] Akelarre. Mario Mendoza  
-- [X] The art of hearing heartbeats. Jan-Philipp Sendker
+- [x] The art of hearing heartbeats. Jan-Philipp Sendker
 - [x] [Dino lernt deutsch](https://books.learnoutlive.com/category/dino-lernt-deutsch/)
 
 #### Extended list
@@ -270,7 +276,8 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [x] So Good They Can't Ignore You. Cal Newport
 - [x] Memories, Dreams, Reflections. Carl Jung
 - [x] Spare parts. Joshua Davis.
-- [X] Spare parts. Buzz Williams
+- [x] Spare parts. Buzz Williams
+- [x] Kindred. Octavia E. Butler
 - [x] Ensayo sobre la lucidez. José Saramago
 - [x] No excuses. brian tracy
 - [x] Saga. Sophie de Mello Breyner
@@ -329,6 +336,7 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - Project Hail Mary
 - Mickey 17
 - Un poeta
+- Office space
 
 - [ ] Before Sunrise/Before Sunset/Before Midnight
 - [ ] Your name
@@ -339,7 +347,7 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [ ] I bite
 - [ ] Lion
 - [ ] Past lives
-- [ ] Office space
+- [ ] Familiar touch
 - [ ] Wall street
 - [ ] Jojo rabbit
 - [ ] The great dictator
@@ -359,6 +367,7 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 - [ ] Ad Astra
 - [ ] Dr strangelove
 - [ ] I swear
+- [ ] Little miss sunshine
 
 ## Series
 
@@ -394,7 +403,7 @@ For more ideas see [NASA history](https://history.nasa.gov/series95.html)
 ## Poetry
 
 - [If Tomorrow Starts Without Me by David Romano possibly](https://youtu.be/8YMJcIvpUlc)
-- [Your Life is Your life by Charles Bukowski](https://youtu.be/2lK4LrD8Ii4)
+- [The Laughing Heart by Charles Bukowski](https://youtu.be/2lK4LrD8Ii4)
 - [If by Rudyard Kipling](https://youtu.be/sqOgyNfHl1U)
 
 ## Art

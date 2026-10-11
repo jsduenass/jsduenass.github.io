@@ -340,7 +340,7 @@ Whimsical way of showcasing corruption and overreach of power.
 >
 > __--- Mickey 17__
 
-> No había nada en aquella casa que hablase del presente. Benjamín Sentís vivía en pretérito pluscuamperfecto
+> No había nada en aquella casa que hablase del presente. Benjamín Sentís vivía en pretérito plus-cuamperfecto
 >
 > __--- Marina, Carlos Ruiz Zafón__
 
@@ -675,6 +675,19 @@ it is fascinating to see how an indicator of economic prosperity has shifted fro
 > Money is a way of measuring wealth but is not wealth in itself. A chest of gold coins or a fat wallet of bills is of no use whatsoever to wrecked sailor alone on a raft.
 >
 > __--- Allan Watts__
+
+> Widespread stock ownership makes workers identify with capital rather than recognize their antagonism to it. 401(k)s, it turned millions of workers into amateur capitalists who again they chear for the stock market even when that conflicts with their own interests as laborers. Also we just know that people are going to act in a way that aligns with their material interests. So if you spend your entire life buying into the system, building wealth through the stock market, or home ownership for that matter, then you are going to act accordingly.
+>
+> __---Amanda Holden,The financial diet__
+
+contentious
+
+design systems that allocate resources to people based on the value those people assign to them in the most efficient way possible.
+
+> gold is a bet in human failure ... when investors buy gold, they are essentially hedging against total political breakdown and the failure peaceful interaction
+>
+>__--- [Patrick Boyle](https://youtu.be/fhsrkvEY55s?si=TajJrfeccwHz3KXm&t=1191) expresing views of Joe Weisenthal  __ 
+
 
 ## Interpersonal relationships
 
@@ -1036,6 +1049,62 @@ My favorite is rule 10 as it gives you the grace, that even while "knowing" all 
 > Of a 168-hour week, 56 hours are typically spent sleeping and 40 hours earning money. That leaves 72 hours every week to watch cat videos on YouTube  -  this we call spare time.
 >
 > __--- Alex Winkler__
+
+> Being on the same pitch doesn't mean you are experiencing the same game
+
+>A traveler asks three workers what they're doing:
+>
+>"I'm laying bricks."
+>
+>"I'm earning a living."
+>
+>"I'm building a cathedral."
+
+> Every movie novel or comic is humans sharing their internal simulations with each other
+>
+> __---Kurzgesagt__
+
+> The greengrocer hang his sign not beacause he receives an order, but because he sees that oters do likewise. Other in turn, follow his example. The system is totalitarian not because some individual has total power, but because power is shared in conditions of total irresponsability. There is no clear line between evil and good, power and servitude, Party and people because ´this line runs de fact through each pearson, for everyone in his or her own way is both victim and supporter of the system'
+>
+> __--- Timothy Snyder, introduction to Power of the Powerless__
+
+> Why in the conditions where widespread and arbitrary abuse of power is the rule, is ther such a generial and spontaneous acceptanc of the principle of legality?
+>
+>...
+>
+> Because the system cannot do without the law, because it is hopelessly tied down by the necesity of pretending the laws are observed , it is compelled to react in some way to such appeals. Demanding that the laws be upheld is thus an act of living within the truth that threatens the whole mendacious structure at its point of maximum mendacity. Over and over again, such appeals make the purely ritualistic nature of the law clear to society and to those who inhabit its power structure. They draw attention to its real material substance, and thus, indirectly, compel all those who take refuge behind the law to affirm and make credible this agency of excuses ...  They have no other choice: because they cannot discard the rules of their own game, they can only attend more carefully to those rules.
+s or her own way is both victim and supporter of the system'
+>
+> __--- Vaclav Havel, Power of the Powerless__
+
+One clear example of civil rights activist that challenge the segregation rules. By exposing how the ugliness that eintail their application.
+
+> To assume that the laws arre mere facade, that they have no validity and that therefore it is pointless to appeal to them would mean to go on reinforcing those aspects of the law that create the facade and the ritual
+>
+> __--- Vaclav Havel, Power of the Powerless__
+
+Cynisms becomes a trap that stall any critic to produce any meaningful change.
+
+> Men are to be viewed as the organs of their century  which operate mainly unconsciously
+>
+> Goethe
+
+> Recently, photography has become almost as widely practiced an amusement as sex and dancing which means that, like every mass art form, pothography is not practiced by most people as an art. It is mainly a social rite, a defense against anciety, and a tool of power
+>
+> __--- Susan Sontag, On Photography__  
+
+> To collect photographs is to collect the world.
+>
+> __--- Susan Sontag, On Photography__  
+
+
+> If Europe today accoutns for just over 7 per cent of the world's population, produces around 25 per cent of the global GDP and has to finance 50 per cent of the global social spending, the it's obvious that it will have to work very hard to maintain its prosperity and way of live
+>
+> __--- Angela Merkel__
+
+I think this exposes the challenge of trying to uplift living standards of everyone to those enjoyed in the European Union.
+
+And raises the question of where is thet value being created and where it is being captured. My suspicion is the actual valuable work is being done in third world countries (but is hidden underneath cheap labor cost) while all the proceeds are enjoyed and managedin developed countries.
 
 ## Sayings
 
